@@ -1,0 +1,1448 @@
+[
+    {
+        "instruction": "Kannst Du mir ein schnelles Grundrezept für Pfannkuchen empfehlen?",
+        "input": "",
+        "output": "Hier ist ein Rezept für Pfannkuchen, was ungefähr sieben Pfannkuchen ergibt:\n- 2 Eier\n- 200ml Milch\n- Eine Prise Zucker und Salz\n- 200g Mehl\n- 60ml Mineralwasser\n- Etwas Speiseöl zum Ausbacken\nUm den 'Teig herzustellen, rührst Du einfach alle Zutaten, mit Ausnahme des Speiseöls, zusammen.\nDann kannst Du den fertigen Teig  mit einer Schöpfkelle in die eingeölte Pfanne geben und die Pfannkuchen backen.",
+        "id": "aya_deu_0"
+    },
+    {
+        "instruction": "Um welches wichtige Ereignis geht es in diesem Text: \"Im Januar 2018 wurde bekanntgegeben, dass Artjom Gilz, Nik Xhelilaj, Marlene Tanczik, Nils Dörgeloh und Deniz Arora für die Serie verpflichtet werden konnten. Die Dreharbeiten für die 10-teilige Adaption fanden schließlich vom 6. April bis 16. August 2018 in Berlin und Brandenburg statt. Als Hauptmotiv diente die Stadt Beelitz und deren unmittelbare Umgebung. Sowohl die Drehbedingungen als auch das an Eastern erinnernde Szenenbild von 'Milk & Honey' wurden maßgeblich von der auch in Brandenburg vorherrschenden Dürre und Hitze im Sommer 2018 beeinflusst. Insbesondere Maske und Kostüm stellte das Wetter vor besondere Herausforderungen. Wiederholt musste aufgrund von Brandgefahr auch die Feuerwehr anrücken.\"",
+        "input": "",
+        "output": "Der Text thematisiert die Dreharbeiten der Fernsehserie \"Milk & Honey\", die stark durch die Dürre und Hitze im Sommer 2018 beeinflusst wurden, weswegen sogar die Feuerwehr anrücken musste.",
+        "id": "aya_deu_1"
+    },
+    {
+        "instruction": "Kannst Du mir die Etymologie des Wortes \"Gorilla\" erklären?",
+        "input": "",
+        "output": "Das Wort Gorilla leitet sich vom altgriechischen Wort Γόριλλαι (Górillai, \"Gorillai\") ab, was soviel wie \"ein Stamm haariger Frauen\" bedeutet.\nDieses Wort wurde von Hanno dem Seefahrer in einem Seereisebericht gebraucht. Hanno war ein karthagischer König, von dem ein Reisebericht in altgriechischer Sprache erhalten ist, die beschreibt, wie Hanno mit seinen Schiffen Afrika erkundet. Auf dieser Erkundungsreise trifft er auf Gorillas, die er als solche benennt. Bei dem griechischen Text handelt es sich um eine Übersetzung aus dem Punischen, aber das Wort dürfte noch weiter auf eine afrikanische Sprache zurückgehen. Hanno hat dieses Wort dann von den Einheimischen in das Punische übernommen, und schließlich wurde es in das Altgriechische übersetzt.",
+        "id": "aya_deu_2"
+    },
+    {
+        "instruction": "Wie hoch ist das \"London Eye\" (Riesenrad in London)?",
+        "input": "",
+        "output": "Das London Eye ist 135 Meter hoch.",
+        "id": "aya_deu_3"
+    },
+    {
+        "instruction": "Was sind die fünf Sportler mit den meisten Medaillen in den olympischen Spielen?",
+        "input": "",
+        "output": "Bisher am erfolgreichsten waren:\n1. Michael Phelbs (28 Medaillen)\n2. Larisa Latynina (18 Medaillen)\n3. Marit Bjorgen (15 Medaillen)\n4. Nikolai Andrianov (15 Medaillen)\n5. Ole Einar Bjorndalen (13 Medaillen)",
+        "id": "aya_deu_4"
+    },
+    {
+        "instruction": "Beantworte die folgende Frage aus dem nachstehenden Absatz, der mit \"Quelle\" startet.\nFrage: \"Wie lautet der lateinische Name von Johannes Brenz?\"\nQuelle: \"Johannes Brenz, latinisiert Brentius (* 24. Juni 1499 in Weil der Stadt; † 11. September 1570 in Stuttgart), war Reformator der Reichsstadt Schwäbisch Hall und des Herzogtums Württemberg. Er vertrat Martin Luthers Theologie im Südwesten des Reichs. Brenz erlebte die Reformationszeit von den Anfängen bis zur Konsolidierung nach dem Augsburger Religionsfrieden 1555 mit und war an den wichtigen Stationen oft persönlich beteiligt: So lernte er auf der Heidelberger Disputation (1518) Luther kennen und wurde sein Anhänger, 1529 besuchte er das Marburger Religionsgespräch und war auf dem Reichstag zu Augsburg (1530) Philipp Melanchthons engster Mitarbeiter bei der Abfassung der Confessio Augustana.\"",
+        "input": "",
+        "output": "Der lateinische Name von Johannes Brenz lautet Brentius.",
+        "id": "aya_deu_5"
+    },
+    {
+        "instruction": "Schreiben Sie eine Fortsetzung für den folgenden Absatz - \"Monaco und Burke schrieben „Only Forever“ für den Film \"Rhythm on the River\" (1940, Regie: Victor Schertzinger). In den Hauptrollen agieren Mary Martin und Bing Crosby, der den Song vorstellt. Monaco und Burke erhielten für \"Only Forever\" 1941 eine Oscar-Nominierung...\"",
+        "input": "",
+        "output": "in der Kategorie \"Bester Song\". Den Oscar gewannen sie allerdings nicht.",
+        "id": "aya_deu_6"
+    },
+    {
+        "instruction": "Aus welcher Kategorie stammt diese Frage: Welcher Staat trat zuerst der Union bei, Hawaii oder Alaska?",
+        "input": "",
+        "output": "Die Frage lässt sich der Kategorie \"Geschichte\" zuordnen.",
+        "id": "aya_deu_7"
+    },
+    {
+        "instruction": "Seit wann gibt es Spotify?",
+        "input": "",
+        "output": "Die gleichnamige Firma hinter dem popularen Musik-Streamingdienst wurde 2006 in Stockholm, Schweden gegründet. Laut der offiziellen Webseite von Spotify wurde der Dienst im Jahr 2008 gestartet.",
+        "id": "aya_deu_8"
+    },
+    {
+        "instruction": "Aus welchen Elementen besteht ein Molekül Wasser?",
+        "input": "",
+        "output": "Ein Wassermolekül besteht aus einem Sauerstoffatom und zwei Wasserstoffatomen.",
+        "id": "aya_deu_9"
+    },
+    {
+        "instruction": "Um welches wichtige Event geht es im folgenden Text: Zu Beginn des Ersten Koalitionskrieges gegen das revolutionäre Frankreich war er 1792 Oberst und Kommandeur des Regiments „von Borcke“, mit dem er an diesem Krieg in Westdeutschland und Ostfrankreich teilnahm. In diesen Gefechten zeichnete er sich bei der Belagerung von Mainz vor allem aber in der Schlacht bei Pirmasens, wo er schwer verwundet wurde so aus, dass ihm König Friedrich Wilhelm II. am 22. Oktober 1792 den Orden Pour le Mérite verlieh. Diese Verleihung ergibt sich aus dem Tagebucheintrag des Kronprinzen vom 22. Oktober 1792 in der Oberst Kameke ausdrücklich erwähnt wird: \"…, ließ der König bei der Parole (im Lager von Aubange) mehrere Verdienstorden unter die Kommandeure und andere Offiziere der Armee vertheilen, um seine Zufriedenheit zu bezeigen.\"",
+        "input": "",
+        "output": "Der Text handelt von verschiedenen Schlachten im Ersten Koalitionskrieges Preußens gegen das revolutionäre Frankfreich.",
+        "id": "aya_deu_10"
+    },
+    {
+        "instruction": "Was ist die international bekannteste deutsche Band?",
+        "input": "",
+        "output": "Die vermeintlich erfolgreichste Band im Ausland ist Rammstein, die trotz ihrer deutschen Texte international Erfolge feiern konnten. Auch die Scorpions sind international bekannt, wenn auch deutlich weniger in den letzten Jahren.",
+        "id": "aya_deu_11"
+    },
+    {
+        "instruction": "Kannst Du mir ein schnelles Grundrezept für Pfannkuchen empfehlen?",
+        "input": "",
+        "output": "Für ungefähr sieben Pfannkuchen benötigst Du 2 Eier, 200ml Milch, eine Prise Zucker und Salz, 200g Mehl, 60ml Mineralwasser und etwas Speiseöl zum Ausbacken. Um den Teig herzustellen, rührst Du einfach alle Zutaten zusammen, mit Ausnahme des Speiseöls natürlich.\nDann kannst Du den fertigen Teig mit einer Schöpfkelle in die eingeölte Pfanne geben und die Pfannkuchen backen.",
+        "id": "aya_deu_12"
+    },
+    {
+        "instruction": "Wer ist Olaf Scholz?",
+        "input": "",
+        "output": "Olaf Scholz ist Bundeskanzler der Bundesrepublik Deutschland seit Dezember 2021. Er ist Mitglied der sozialdemokratischen Partei Deutschlands (SPD).",
+        "id": "aya_deu_13"
+    },
+    {
+        "instruction": "Übersetze den folgenden Satz ins Deutsche:\n\n\"Where there is a will there is a way.\"",
+        "input": "",
+        "output": "Bei der Phrase handelt es sich um ein Sprichwort, welches sich auch im deutschen Sprachgebrauch findet. Die Übersetzung lautet:\n\n\"Wo ein Wille, da ein Weg.\"",
+        "id": "aya_deu_14"
+    },
+    {
+        "instruction": "Wodurch zeichnet sich das Wahlsystem in Frankfreich aus?",
+        "input": "",
+        "output": "Frankreich ist eine demokratische Republik, die von einem Präsidenten geleitet wird. Der französische Präsident – seine offizielle Bezeichnung lautet „Präsident der Republik“ – wird in allgemeiner und direkter Wahl gewählt. Die Amtszeit des Staatspräsidenten beträgt fünf Jahre. Eine Wiederwahl ist beliebig oft möglich – allerdings dürfen höchstens zwei Amtszeiten direkt aufeinander folgen.",
+        "id": "aya_deu_15"
+    },
+    {
+        "instruction": "Was für Software gibt es, um mit Kollegen zu chatten?",
+        "input": "",
+        "output": "Es gibt diverse Anbieter, die Lösungen für digitale Unterhaltungen mit Kollegen anbieten. Populäre Produkte sind hierbei das von Microsoft angebotene \"Teams\", sowie die Lösung \"Slack\" der gleichnamigen Firma. Google bietet mit \"Google Chat\" ebenfalls eine eigene Lösung an. Als Alternative für Self-Hosting ist zudem noch die Open Source Software \"Rocket Chat\" erwähnenswert.",
+        "id": "aya_deu_16"
+    },
+    {
+        "instruction": "Vervollständige bitte den nachfolgenden Satz: Wer anderen eine Grube gräbt,",
+        "input": "",
+        "output": "fällt selbst hinen.",
+        "id": "aya_deu_17"
+    },
+    {
+        "instruction": "Um welches Land geht es im folgenden Absatz?\nBairo Formosa ist das alte, chinesische Viertel Dilis. Die chinesische Gemeinde war 1912 bereits gut organisiert. Es gab ein Vereinsgebäude, einen buddhistischen Tempel und eine eigene Schule. \"Clube Chum Fuk Tong Su\", die erste chinesische Schule in der Kolonie, bot neben Unterricht in Chinesisch auch Englisch, Zoologie und Botanik an. 1926 wurde aus China eine Buddhastatue gebracht und im Chinesischen Tempel aufgestellt. Sie existiert noch heute. Unter den japanischen und indonesischen Besetzungen hatte die chinesische Bevölkerung besonders zu leiden, doch seit der Unabhängigkeit Osttimors sind viele Flüchtlinge wieder nach Dili zurückgekehrt.",
+        "input": "",
+        "output": "Der Text handelt von Bairo Formosa, einem Viertel in Dilis. Dilis ist die Hauptstadt von Osttimor.",
+        "id": "aya_deu_18"
+    },
+    {
+        "instruction": "Um welche Person geht es im folgenden Text?\nEr erzielte auf kontinentaler Ebene zahlreiche Erfolge. Mehrfach wurde er Panamerikameister: 2013 und 2014 gewann er den Titel im Einzel sowie von 2011 bis 2018 achtmal in Folge mit der Mannschaft. Mit der Mannschaft gewann er auch dreimal Gold bei Panamerikanischen Spielen. Zudem sicherte er sich 2015 in Toronto Silber und 2019 in Lima Gold im Einzel. Bei Weltmeisterschaften gewann er 2013, 2017 und 2018 jeweils Silber mit der Mannschaft. 2019 gelang in Budapest schließlich der Titelgewinn. Im Einzel konnte er sich 2010 in Paris und 2015 in Moskau auf dem Bronzeplatz platzieren.",
+        "input": "",
+        "output": "Es handelt vermutlich von Gerek Meinhardt, einem amerikanischen Fechtmeister.",
+        "id": "aya_deu_19"
+    },
+    {
+        "instruction": "Wie lautet der Vorname von Kahn?",
+        "input": "",
+        "output": "Es gibt mehrere bekannte Persönlichkeiten, die hier gemeint sein könnten. Eine Möglichkeit wäre Oliver Kahn, vormaliger Fußball-Profi und langjähriger Nationaltorhüter.",
+        "id": "aya_deu_20"
+    },
+    {
+        "instruction": "Seit wann gibt es Spotify?",
+        "input": "",
+        "output": "Die gleichnamige Firma hinter dem popularen Musik-Streamingdienst wurde 2006 in Stockholm, Schweden gegründet. Laut der offiziellen Webseite von Spotify wurde der Dienst im Jahr 2008 gestartet. In Deutschland ist Spotify laut eigener Aussage allerdings erst seit 2012 verfügbar.",
+        "id": "aya_deu_21"
+    },
+    {
+        "instruction": "Wie viele Stimmen im Wahlkollegium (\"electoral college\") erreichte Hilary Clinton bei den Präsidentschaftswahlen 2016?",
+        "input": "",
+        "output": "Hillary Clinton erhielt 227 der Stimmen im Kollegium. Ihr Rivale (und späterer Präsident) Donald Trump konnte 304 Stimmen auf seinen Namen versammeln.",
+        "id": "aya_deu_22"
+    },
+    {
+        "instruction": "Vereinfache den folgenden Satz, indem syntaktisch komplexe Wörter mit einfacheren Worten (oder grammatikalischen Konstrukten) ersetzt werden.\nInput: Das \"Nutzergenerierte Radio\", wie die Betreiber des Internetportals ihr Konzept nennen, macht Streamingtechnologie auch für private, nicht-kommerzielle Sendungsmacher nutzbar, was sich ansonsten aufgrund hoher GEMA- bzw. GVL-Gebühren eher schwierig gestalten kann. Die anfallenden Gebühren übernimmt die Laut AG, diese behält sich im Gegenzug das Recht vor, Werbung auf den Stationen der Nutzer zu schalten. \nAntwort:",
+        "input": "",
+        "output": "Antwort: Das \"Nutzergenerierte Radio\" ist ein Internetdienst. Es ermöglicht private Radiosender, die normalerweise zu teuer für viele Personen wären. Der Grund dafür sind Gebühren, die beim Abspielen eines Lieds an bestimmte Gruppen gezahlt werden müssen. Die Kosten im \"nutzergenerierten Radio\" werden stattdessen von einer Firma übernommen. Sie darf dafür Werbung auf den Radiosendern abspielen.",
+        "id": "aya_deu_23"
+    },
+    {
+        "instruction": "Was ist der Unterschied zwischen Ober-/Unterhitze und Umluft beim Backofen?",
+        "input": "",
+        "output": "Ober- und Unterhitze bzw. Umluft unterscheiden sich dadurch, wie genau geheizt wird. Bei Ober- und Unterhitze sind es Heizelemente (meist spiralförmig), die in der Decke bzw. dem Boden des Ofens verbaut sind und Wärme in die Backkammer übertragen.Bei Umluft ist es ein Ventilator hinten im Ofen, der die Hitze in den Backofen leitet.\nDie meisten Backrezepte basieren auf Ober- und Unterhitze – und auf mittlerer Schiene. Backen mit Umluft hat allerdings auch einige Vorteile. Die Wärme wird zum einen gleichmäßiger im Innenraum des Ofens verteilt. Deswegen kann man auch mehrere Bleche übereinander auf mehreren Ebenen backen, zum Beispiel wenn man größere Mengen backt.",
+        "id": "aya_deu_24"
+    },
+    {
+        "instruction": "Schlage mir bitte fünf verschiedene Ideen vor, wie ich mich innerhalb von etwa einer Stunde entspannen kann",
+        "input": "",
+        "output": "Hier sind ein paar mögliche Vorschläge:\n1. Unternimm einen Spaziergang. Wenn möglich, gehe in Grünanlagen oder andere verkehrsberuhigte Orte, um die Entspannung zu maximieren.\n2. Mach ein kurzes Nickerchen. Wenn du tagsüber Probleme beim Einschlafen hast, kann eine geführte Meditation oder autogenes Training eine entspannende Alternative sein.\n3. Lies ein Buch. Wenn du keine Lesemöglichkeiten zu Hause hast, vermeide allerdings, am Bildschirm zu lesen, da dies die Augen belasten kann.\n4. Ruf Freunde oder Familie an, wenn du schon länger nicht mehr mit ihnen gesprochen hast.\n5. Probiere progressive Muskelentspannung oder entspannende Atemübungen.",
+        "id": "aya_deu_25"
+    },
+    {
+        "instruction": "Wir spielen Jeopardy! Verfasse die korrekte Frage zur folgenden Antwort:\n\n\"Es ist eines der ersten Video- und Mehrspieler-Computerspiele.[1] Im Spiel umkreisen zwei Raumschiffe, die jeweils von einem menschlichen Spieler oder dem Computer gesteuert werden, einen Stern. Dessen Gravitationsfeld zieht sowohl die Raumschiffe als auch die Geschosse an, die von ihnen abgefeuert werden.\"",
+        "input": "",
+        "output": "Was ist \"Spacewar!\"?",
+        "id": "aya_deu_26"
+    },
+    {
+        "instruction": "Wer ist Olaf Scholz?",
+        "input": "",
+        "output": "Olaf Scholz ist Bundeskanzler der Bundesrepublik Deutschland seit Dezember 2021. Er ist Mitglied der Sozialdemokratischen Partei Deutschlands (SPD).",
+        "id": "aya_deu_27"
+    },
+    {
+        "instruction": "Wer gewann die League of Legends-Weltmeisterschaft im Jahr 2023?",
+        "input": "",
+        "output": "Die Gewinner waren das koreanische Team SK Telecom T1, geläufig als \"T1\" oder \"SKT\" bekannt. Die Mannschaft um Star-Spieler Lee \"Faker\" Sang-hyeok entschied das Finale gegen das chinesische Team Weibo Gaming in einem klaren 3:0 für sich.",
+        "id": "aya_deu_28"
+    },
+    {
+        "instruction": "Wie kann ich ein Ei zubereiten?",
+        "input": "",
+        "output": "Die gängisten Möglichkeiten, ein Ei zuzubereiten, sind:\n- Hartgekochtes Ei: Das Ei wird in einen Topf mit kochendem Wasser gelegt, und hat eine Kochdauer von 5-10 Minuten. Dabei hängt die Kochzeit von der bevorzugten Konsistenz des gekochten Eis ab.\n- Spiegelei: Dazu das Ei einfach in einer Pfanne mit etwas Öl aufschlagen und solange auf mittlerer Hitze Braten, bis das Eigelb fest wird.\n- Rührei: Auch hier wird dafür eine Pfanne mit etwas Öl benötigt. Im Gegensatz zum Spiegelei schlägt man das Ei allerdings vorher in eine separate Schale, um es mit etwas Milch und Salz/Pfeffer zu vermischen. Die Mischung kann dann in die Pfanne gegeben werden, und für ein paar Minuten unter konstantem Umrühren bei mittlerer Hitze gebraten werden.\n\nBei Eiern ist grundsätzlich zu bedenken, dass der Rohverzehr von Eiern zu einer Infektion mit Salmonellen führen kann.",
+        "id": "aya_deu_29"
+    },
+    {
+        "instruction": "Welcher Krieg dauerte länger: der Vietnamkrieg oder der Koreakrieg?",
+        "input": "",
+        "output": "Der Vietnamkrieg dauerte länger als der Koreakrieg.",
+        "id": "aya_deu_30"
+    },
+    {
+        "instruction": "Woher kommt Speisesalz?",
+        "input": "",
+        "output": "Es gibt im Wesentlichen drei verschiedene Methoden zur Gewinnung von Salz. Meersalz wird durch die Verdunstung von Meerwasser gewonnen. Siedesalz entsteht beim Erhitzen von Sole (aus dem Berg gewonnenem Salzwasser). Steinsalz wird bergmännisch abgebaut.",
+        "id": "aya_deu_31"
+    },
+    {
+        "instruction": "Wodurch unterscheiden sich Blutgruppen?",
+        "input": "",
+        "output": "Die Erythrozyten (roten Blutzellen), sind für die Blutgruppe entscheidend. Auf ihrer Oberfläche befinden sich bestimmte Eiweißstrukturen, die als \"Antigene\" bezeichnet werden. Diese Antigene können unterschiedlich ausgebildet sein. Je nach Ausprägung ergeben sich die verschiedene Blutgruppen.\nMenschen mit der Blutgruppe A haben Antigene vom Typ A auf der Oberfläche ihrer Erythrozyten. Dieser Typ A besteht aus einem Protein und einer bestimmten Kohlenhydratverbindung. Wer die Blutgruppe B hat, hat ebenfalls Antigene auf seinen Erythrozyten, aber vom Typ B. Auch sie sind aus demselben Protein aufgebaut und besitzen eine ähnliche Kohlenhydratkette, die sich nur an einer Stelle um einen Kohlenhydratrest von denen der A-Antigene unterscheidet. Menschen mit der Blutgruppe AB tragen beide Arten von Antigenen auf ihren Erythrozyten. Menschen mit der Blutgruppe AB haben sowohl Antigene von Typ A, als auch Typ B, auf den Erythrozyten. Blutgruppe 0 bedeutet, dass keine Antigene vorhanden sind.",
+        "id": "aya_deu_32"
+    },
+    {
+        "instruction": "Wo kann ich Bafög beantragen?",
+        "input": "",
+        "output": "Die offizielle Webseite für Bafög ist https://bafög.de. Dort finden sich alle nötigen Antragsformulare.",
+        "id": "aya_deu_33"
+    },
+    {
+        "instruction": "Wer ist der reichste Mensch auf der Welt?",
+        "input": "",
+        "output": "Die Forbes-Liste veröffentlicht in regelmäßigen Abständen eine Liste mit den reichsten Menschen der Welt. Das kann sich über die Zeit ändern. Für eine aktuelle Aussage veröffentlicht das Forbes-Magazin regelmäßig eine Liste der reichsten Menschen weltweit. Im Jahr 2023 ist laut des Forbes Magazin der reichste Mensch Elon Musk (CEO von Tesla). Sein Vermögen wurde zu diesem Zeitpunkt auf 259,9 Milliarden US-Dollar geschätzt.",
+        "id": "aya_deu_34"
+    },
+    {
+        "instruction": "Gib mir eine Liste von Punkten, die beim Hauskauf zu beachten sind.",
+        "input": "",
+        "output": "Das genaue Prozedere beim Hauskauf kann sich regional sehr stark unterscheiden, da es teilweise von der Bauart des Hauses abhängt. Ein paar generelle Punkte könnten aber die folgenden Aspekte sein:\n1. Location: Wo befindet sich das Haus? Gibt es größere Straßen in der Nähe, die Lärm verursachen? Sind Haltestellen für ÖPNV in der Nähe des Hauses? Gibt es Supermärkte oder andere Einkaufsmöglichkeiten in der Nähe?\n2. Kaufpreis und Zinssatz: Fällt das Haus in das vorher festgesetzte Budget? Gibt es Möglichkeiten, über bestehende Bankbeziehungen gute Zinssätze zu sichern? Befindet sich das Haus in einem Zustand, wo größere Reparaturen absehbar sind, und sind Ersparnisse dafür eingeplant?\n3. Aufteilung des Wohnraums & Licht: Entspricht die Raumteilung den Vorstellungen, oder gibt es Konfliktpotential? Sind alle Räume mit ausreichend Tageslicht versorgt, auch zu verschiedenen Tageszeiten? Blockieren Bäume oder andere Gebäude die Fenster?\n4. Innenarchitektur: Entspricht der architektonische Stil den Vorstellungen, oder sind größere Anpassungen notwendig? Welche Wände sind tragend, und gibt es entsprechende Pläne vom originalen Bauvorhaben?\n5. Garagen- & Speicherplatz: Sind zusätzlich zur Wohnfläche noch weitere Abstellplätze, z.B. eine Garage oder Kellerräume, vorhanden? Sind diese als Waschkammer tauglich, oder besteht die Gefahr von Wasserschäden? Gerade Garagen sind oft nicht den gleichen Standards eines normalen Hauses ausgesetzt.\n6. Wohndauer: Wie lange ist geplant, in diesem Haus selbst zu wohnen? Gibt es aufgrund der Familien- oder Karriereplanung mittelfristige Bedürfnisse, in ein anderes Haus zu ziehen?\n7. Instandhaltungskosten: Aus welchem Baujahr ist das Haus? Gibt es generelle Mängel die bereits ersichtlich sind? Wurde ein unabhängiger Inspekteur für eine Begutachtung beauftragt?",
+        "id": "aya_deu_35"
+    },
+    {
+        "instruction": "Verweisen Sie auf die nachstehende Passage und beantworten Sie anschließend die Frage in derselben Sprache wie die Passage:  Passage: Der Jahrestag der Restauration (auch Karls Geburtstag) - der 29. Mai - wurde in England bis Mitte des 19. Jahrhunderts als Oak Apple Day anerkannt, nach der Royal Oak, in der sich Charles während seiner Flucht vor den Truppen von Oliver Cromwell versteckte. Bei den traditionellen Feiern wurden Eichenblätter getragen, die aber inzwischen ausgestorben sind. Karl II. wird ausgiebig in Kunst, Literatur und Medien dargestellt. Charleston, South Carolina, und South Kingstown, Rhode Island, sind nach ihm benannt.  Frage: Welche Arten von Blättern wurden bei traditionellen Feiern verwendet?",
+        "input": "",
+        "output": "Eichenblätter",
+        "id": "aya_deu_36"
+    },
+    {
+        "instruction": "Wodurch entsteht ein Unwetter?",
+        "input": "",
+        "output": "Unwetter entstehen durch das Aufeinandertreffen von Kalt- und Warmwetterfronten. Durch die Umschläge in der Luft wird Reibung erzeugt, die in der Form von Blitzen entladen wird.",
+        "id": "aya_deu_37"
+    },
+    {
+        "instruction": "Write a continuation for this paragraph - Klæbo nahm bis 2016 vorwiegend an Juniorenrennen teil. Dabei wurde er jeweils im März 2014 über 15 km klassisch und im März 2016 über 20 km klassisch norwegischer Juniorenmeister. Im Januar 2015 gewann er bei den Nordischen Junioren-Skiweltmeisterschaften in Almaty im Sprint und mit der Staffel jeweils die Bronzemedaille. Sein erstes Weltcuprennen lief er im Februar 2016 in Drammen. Er belegte dabei den 15. Rang und gewann damit seine ersten Weltcuppunkte. Im selben Monat gewann er bei den Nordischen Junioren-Skiweltmeisterschaften",
+        "input": "",
+        "output": "in Râșnov im Sprint, über 10 km klassisch und mit der Staffel jeweils die Goldmedaille. Zu Beginn der Saison kam er mit dem dritten Platz im Sprint in Ruka erstmals aufs Podest im Weltcup. Bei der folgenden Nordic Opening in Lillehammer wurde er Zweiter. Im Januar 2017 errang er in Lahti bei seiner ersten Teilnahme im Scandinavian-Cup den fünften Platz im Sprint und den zweiten Platz über 15 km klassisch. Beim Weltcup in Toblach wurde er Dritter im Sprint. Anfang Februar 2017 gewann er bei den norwegischen Meisterschaften in Lygna Silber über 15 km klassisch und Gold im Sprint. Mitte Februar 2017 holte er im Sprint in Otepää seinen ersten Weltcupsieg. Beim Saisonhöhepunkt den Nordischen Skiweltmeisterschaften 2017 in Lahti gewann er die Bronzemedaille im Sprint.",
+        "id": "aya_deu_38"
+    },
+    {
+        "instruction": "Welcher ist der kürzeste Harry-Potter-Film?",
+        "input": "",
+        "output": "Harry Potter und die Heiligtümer des Todes – Teil 2",
+        "id": "aya_deu_39"
+    },
+    {
+        "instruction": "Wie kann ich als faule Person fitter werden?",
+        "input": "",
+        "output": "Es gibt verschieden Wege, um die eigene Fitness zu verbessern. Ein einfacher Weg, um anzufangen, sind regelmäßige Spaziergänge. Die Bewegung allein hilft bereits, eine Grundfitness aufzubauen. Alternativ gibt es auch bestimmte Sportarten, die auch für Anfänger gut geeignet sind. Schwimmen z.B. führt zu einer sehr geringen Belastung der Gelenke. Für den gezielten Muskelaufbau sind zu Beginn auch Körper-Übungen vollkommen ausreichend, bei denen das eigene Körpergewicht als Trainingsgewicht fungiert.",
+        "id": "aya_deu_40"
+    },
+    {
+        "instruction": "Ich möchte einen Kuchen oder eine Torte verzieren. Was kann ich dafür verwenden?",
+        "input": "",
+        "output": "Für das Dekorieren von Torten kann man unterschiedliche Cremes oder Überzugs und Modelliermassen verwenden. \nBeliebte Cremes zum einstreichen von Torten und Kuchen sind u.a. \n- Buttercreme auf Basis von Butter und Puderzucker\n- Sahnecreme auf Basis von Sahne\n- Ganache auf Basis von Schokolade und Sahne\n\nDie meisten Cremes lassen sich auch einfärben oder mit Früchten oder Geschmackspulver verfeinern. Einige der Cremes eignen sich auch zum Spritzen von Mustern mit Spritztüllen. Das hängt aber auch von der Konsistenz und dem verwendeten Rezept ab.\n\nFür die Überziehung von Torten kann man Fondant, eine Masse auf Basis von Zucker oder Marizipan verwenden. Die Torte muss vorher für die Haftung mit einer geeigneten Creme überzogen werden. Mit Fondant und Marizipan lassen sich auch Figuren und Dekoelemente formen. \n\nEine weitere Möglichkeit ist die Verwendung von Kuvertüre. \n\nEs gibt noch viele weitere Möglichkeiten Torten und Kuchen zu dekorieren, wie beispielsweise mit Früchten oder echten Blumen. Hier ist Kreativität gefragt.",
+        "id": "aya_deu_41"
+    },
+    {
+        "instruction": "Was sind die Nachbarländer von Deutschland? Gib mir lediglich die Länder, getrennt mit einem Komma. Die Antwort soll keine weiteren Wörter enthalten.",
+        "input": "",
+        "output": "Frankreich, Belgien, Niederlande, Luxemburg, Dänemark, Polen, Tschechien, Österreich, Schweiz",
+        "id": "aya_deu_42"
+    },
+    {
+        "instruction": "Was ist das Tempolimit auf deutschen Autobahnen? Und was innerorts, bzw. außerhalb von Ortschaften?",
+        "input": "",
+        "output": "Ein einheitliches Tempolimit auf deutschen Autobahnen gibt es nicht. Die deutsche Autobahn ist international für die stellenweise unbegrenzten Tempolimits bekannt, inzwischen gibt es allerdings in vielen Abschnitten auch bestimmte Limits. Häufig liegen diese etwa bei 130 Stundenkilometern (was auch offiziell als \"Richtgeschwindigkeit\" vorgegeben wird), oder 120 km/h.\nDie Geschwindigkeitsbegrenzung innerhalb von Ortschaften liegt bei 50 km/h, außerorts bei 100 km/h.",
+        "id": "aya_deu_43"
+    },
+    {
+        "instruction": "Wie lautet die korrekte Antwort auf die Nachfolgende Frage. Schreibe nur die Antwort, und keine weitere Erklärung. Ist der Mount Everest der höchste Berg der Welt?",
+        "input": "",
+        "output": "Ja",
+        "id": "aya_deu_44"
+    },
+    {
+        "instruction": "Wofür steht eigentlich Bafög?",
+        "input": "",
+        "output": "„BAföG“ ist die Abkürzung für Bundesausbildungsförderungsgesetz. Hierbei handelt es sich um finanzielle Förderung von berechtigten deutschen Staatsbürgern für ein Universitätsstudium.",
+        "id": "aya_deu_45"
+    },
+    {
+        "instruction": "Wofür kann ich Fondant verwenden?",
+        "input": "",
+        "output": "Fondant ist eine Zuckermassen, die zum Überzug von meist Torten und zum Modellieren verwendet wird. Sie wird auf Basis von Wasser und Zucker hergestellt. Fondant lässt sich gut mit Lebensmittelfarbe einfärben. \nDu kannst Fondant verwenden unter anderem verwenden für: \n- Überzug von Torten\n- Modellierung von Figuren, Blumen etc.\n- Herstellung von Motivtorten \n- Verzierung von Cupcakes und Muffins",
+        "id": "aya_deu_46"
+    },
+    {
+        "instruction": "Was ist Allerheiligen?",
+        "input": "",
+        "output": "Allerheiligen ist ein katholischer Feiertag am 01. November, der in Deutschland regional begangen wird. Im Wortsinne ist es ein Feiertag zu Ehren der Heiligen. Praktisch \"besuchen\" Menschen ihre verstorbenen Angehörigen auf dem Friedhof und gedenken ihrer. Umstritten ist das offizielle Tanzverbot, das an diesem Feiertag gilt.\nDas Äquivalent im evangelischen Kalender ist der Totensonntag, der jährlich am Sonntag vor dem 01. Advent gehalten wird.",
+        "id": "aya_deu_47"
+    },
+    {
+        "instruction": "Vervollständige den folgenden Paragraphen: Seinen ersten Erfolg auf internationaler Ebene feierte er, als er beim Europacup 2007",
+        "input": "",
+        "output": "mit übersprungenen 2,30 m siegte. Bei den Weltmeisterschaften in Osaka landete Onnen auf dem siebten Platz. Aus demselben Jahr stammt seine persönliche Bestleistung (2,34 m, 20. Mai 2007, Garbsen). 2008 wurde er zum zweiten Mal Deutscher Hallenmeister. Er qualifizierte sich für die Olympischen Spiele in Peking, musste den Start aber kurzfristig wegen Fußbeschwerden absagen.",
+        "id": "aya_deu_48"
+    },
+    {
+        "instruction": "Kannst du mir Vorschläge für eine Themenparty geben? Es handelt sich um eine Geburtstagsfeier.",
+        "input": "",
+        "output": "Es gibt verschiedenste Ideen für eine Mottoparty. Hier sind ein paar Vorschläge:\n1. Kostümidee-Überraschungsparty\n2. Hollywood-Party\n3. Food-Mottopartys\n4. Crazy Socks\n5. Star Wars\n6. Apres-Ski-Party",
+        "id": "aya_deu_49"
+    },
+    {
+        "instruction": "Wie fange ich mit Kreuzstich an?",
+        "input": "",
+        "output": "Kreuzstich ist eine einfache Sticktechnik, mit der sich dennoch detaillierte Motive umsetzen lassen. Es empfiehlt sich, mit kleinen Motiven zu beginnen, Tutorials zu lesen, oder auch mit einem fertigen Stickset mit Motiv und allen benötigten Farben anzufangen.\nKreuzstich wird typischerweise auf Zählstoff gestickt, auch bekannt als AIDA-Stoffe. Wichtig ist für den Anfang:\n- Verwende einen Stickrahmen, um den Stoff gerade zu halten.\n- Fange in der Mitte des Motivs an zu sticken.\n- Meistens werden zwei Fäden des Stickgarns verwendet. Da Garn normalerweise mit sechs Fäden daherkommt, muss dieses erst \"zerlegt\" und entwirrt werden. Nimm nicht zu lange Fäden, sonst hast du ein Chaos!\n- Sichere den Faden auf der Rückseite mit mindestens drei Stichen, bevor du ihn loslässt. Wenn ein Faden zu Ende geht, führe ihn noch auf der Rückseite unter mindestens drei Stichen durch, um ihn zu sichern.",
+        "id": "aya_deu_50"
+    },
+    {
+        "instruction": "Wieso piept mein Rauchmelder in unregelmäßigen Abständen?",
+        "input": "",
+        "output": "Viele Rauchwarnmelder informieren in der Regel über eine niedrige Batteriespannung mit einem kurzen Piepton alle 60 Sekunden. Ein Eingreifen der Feuerwehr ist hier nicht erforderlich. Vielmehr wird dadurch der Benutzer darauf hingewiesen, die Batterie zu erneuern.\n\nEine garantierte Antwort ist mit den gegebenen Details allerdings nicht möglich. Es sollte auf jeden Fall überprüft werden, ob der Rauchmelder voll funktionsfähig ist.",
+        "id": "aya_deu_51"
+    },
+    {
+        "instruction": "Wurde das letzte „Harry Potter“-Buch geschrieben bevor der erste Film entstand?",
+        "input": "",
+        "output": "Nein, der erste Film ist sechs Jahre vor der Veröffentlichung des letzten Buches erschienen.",
+        "id": "aya_deu_52"
+    },
+    {
+        "instruction": "Was ist der Unterschied zwischen Ober-/Unterhitze und Umluft beim Backofen?",
+        "input": "",
+        "output": "Ober- und Unterhitze bzw. Umluft unterscheiden sich dadurch, wie genau geheizt wird. Bei Ober- und Unterhitze sind es Heizelemente (meist spiralförmig), die in der Decke bzw. dem Boden des Ofens verbaut sind und Wärme in die Backkammer übertragen. Bei Umluft ist es ein Ventilator hinten im Ofen, der die Hitze in den Backofen leitet.\nDie meisten Backrezepte basieren auf Ober- und Unterhitze–und auf mittlerer Schiene. Backen mit Umluft hat allerdings auch einige Vorteile. Die Wärme wird gleichmäßiger im Innenraum des Ofens verteilt. Deswegen kann man auch mehrere Bleche übereinander auf mehreren Ebenen backen, zum Beispiel, wenn man größere Mengen bäckt.",
+        "id": "aya_deu_53"
+    },
+    {
+        "instruction": "Bei welchem internationalen Event gewann Irina Maratschowa eine Silbermedaille beim 800m-Sprint?",
+        "input": "",
+        "output": "Irina Maratschowa gewann bei der Leichtathletik-Europameisterschaften 2012 in Helsinki ihre Silbermedaille über 800m.",
+        "id": "aya_deu_54"
+    },
+    {
+        "instruction": "Setze den Paragraphen fort: Die deutsche Fußballnationalmannschaft der Frauen hat heute die Europameisterschaft in Finnland gewonnen.",
+        "input": "",
+        "output": "Das Team um Trainerin Silvia Neid besiegte den Finalgegner England deutlich mit 6:2 (2:1). Der Turniersieg in Helsinki stellt den siebten Europameisterschaftstitel Deutschlands dar, es ist der fünfte Gewinn in Folge.",
+        "id": "aya_deu_55"
+    },
+    {
+        "instruction": "Es gibt eine Wasserquelle und zwei Kanister. Einer der Kanister hat ein Fassungsvermögen von genau drei Litern, in den anderen Kanister passen fünf Liter. Wie kann mit möglichst wenig Schritten durch geschicktes Umschütten 4 Liter Wasser abmessen.",
+        "input": "",
+        "output": "Geht amn davon aus, dass jedes Kippen einen Schritt darstellt ist die folgende Methode die schnellsmögliche. \n1.  Zunächst füllt man den 5-Liter Eimer voll. \n2. Dann kippt man 3 Liter in den 3-Liter Eimer. Im 5-Liter Eimer sind dann 2 Liter. \n3. Den Wasserinhalt des 3-Liter Eimers kippt man nun wieder zurück in die Wasserquelle. \n4. Nun kippt man die 2 Liter im 5-Liter Eimer in den 3-Liter Eimer. Der 5-Liter Eimer ist nun leer und der 3-Liter Eimer enthält 2 Liter. \n5. Füllt man nun den 5-Liter Eimer mit der Wasserquelle wieder auf, hat man im 5-Liter Eimer 3 Liter. \n6. Als letzten Schritt füllt man den 3-Liter Eimer auf mit dem 5-Liter Eimer. Da im 3-Liter Eimer 2 Liter enthalten sind, bleiben im 5-Liter Eimer nun 4 Liter übrig. \n\nEine andere, ebenfalls effiziente Methode: \n1. Zunächst befüllt man den 3-Liter Eimer.\n2. Dann kippt man den Inhalt anschließend in den 5-Liter Eimer. Im 5-Liter Eimer sind dann 3 Liter. \n3. In den leeren 3-Liter Eimer kippt man nun nochmals 3 Liter. \n4. Dann füllt man den 5-Liter Eimer damit voll. Im 3-Liter Eimer ist dann 1 Liter. \n5. Den Wasserinhalt im 5-Liter Eimer kippt man nun zurück in die Wasserquelle\n6. Nun kippt man den einen Liter des 3-Liter Eimers in den 5-Liter Eimer. \n7. Den 3-Liter Eimer füllt man nun erneut.\n8. Den Inhalt schüttet man dann in den 5-Liter Eimer, der bereits einen Liter enthält. Es befinden sich nun 4 Liter im 5-Liter Eimer.",
+        "id": "aya_deu_56"
+    },
+    {
+        "instruction": "Was ist der Unterschied zwischen humid und arid?",
+        "input": "",
+        "output": "Die Begriffe humid und arid beschreiben das Klima einer bestimmten Region. Während humid ein feuchtes Klima beschreibt, sind aride Regionen einem trockenen Klima ausgesetzt.\nDabei hängt die genaue Bezeichnung von den beiden Faktoren Niederschlagsmenge und potenzielle Verdunstung ab. Humide Gebiete sind reich an Niederschlag, mit nur geringer potenzieller Verdunstung und daher sehr feucht. Im Gegensatz dazu sind aride Gebiete niederschlagsarm bei hoher Verdunstung und somit trocken.",
+        "id": "aya_deu_57"
+    },
+    {
+        "instruction": "Bitte geben Sie mir eine Wissensfrage zum Thema Videospiele.",
+        "input": "",
+        "output": "Wie viele Spiele gibt es in der „Titan Fall”-Reihe? Antwort: Es gibt bisher zwei Spiele.",
+        "id": "aya_deu_58"
+    },
+    {
+        "instruction": "Verfasse eine passende Fortsetzung für den nachfolgenden Paragraphen von zwei weiteren Sätzen:\nNoch erfolgreicher war Perwuchin bei Europameisterschaften gewesen, bei denen ihm im Karriereverlauf sieben Medaillengewinne gelangen, darunter drei Europameistertitel. Mit Alexei Korowaschkow gewann er im Zweier-Canadier zunächst 2010 in Corvera über 1000 Meter die Silbermedaille, ehe die beiden 2011 in Belgrad Europameister wurden. 2013 gelang den beiden in Montemor-o-Velho die Titelverteidigung, 2014 in Brandenburg an der Havel und 2015 in Račice u Štětí belegten sie jeweils den zweiten Platz.",
+        "input": "",
+        "output": "Bei den Europameisterschaften 2016 in Moskau gewannen sie ihren dritten gemeinsamen Titel auf der 1000-Meter-Strecke. Seine letzte internationale Medaille gewann er 2017 in Plowdiw, als er im Vierer-Canadier den dritten Platz belegte.",
+        "id": "aya_deu_59"
+    },
+    {
+        "instruction": "Bitte generiere mir eine Beispielfrage zum Triviabereich \"Bücher\".",
+        "input": "",
+        "output": "Welche der \"Chroniken von Narnia\"-Bücher handeln nicht von Lucy Pevensie? Silver Chair, Magician's Nephew",
+        "id": "aya_deu_60"
+    },
+    {
+        "instruction": "Zähle alle aktiven Formel-1-Teams der Saison 2023 auf.",
+        "input": "",
+        "output": "Die Namen aller Teams, die 2023 aktiv in der Formel 1 teilgenommen haben, sind:\n1. Red Bull Racing\n2. Mercedes\n3. Ferrari\n4. Aston Martin\n5. McLaren\n6. Apline\n7. Williams\n8. Alfa Romeo\n9. Haas F1 Team\n10. AlphaTauri",
+        "id": "aya_deu_61"
+    },
+    {
+        "instruction": "Formuliere den folgenden Absatz in vollständige Sätze um.\n\n- Quartalszahlen in Q1 -5% zum Vorjahresquartal\n- Wachsende Krisen in Nahost behindern Lieferkette\n- Zunehmende Konkurrenz aus E-Commerce\n- Wachstumsprognose für Q3 auf +2% angepasst",
+        "input": "",
+        "output": "Im ersten Jahresquartal gab es einbußen von -5 Prozent im Vergleich zum Vorjahresquartal. Als Gründe dafür sind die besorgniseregenden Krisensituationen im nahen Osten zu nennen, welche Auswirkungen auf die globale Lieferkette haben. Weiterhin gibt es zunehmende Konkurrenz im Bereich E-Commerce, in dem sich nun eine wachsende Anzahl an etablierten Konkurrenten befindet.\nAufgrund der aktuellen Situation wird die Wachstumsprognose für das dritte Quartal auf 2% Wachstum angepasst.",
+        "id": "aya_deu_62"
+    },
+    {
+        "instruction": "Stimmt es, dass es am Polarkreis +30 Grad Celsius haben kann?",
+        "input": "",
+        "output": "Tatsächlich wurden in Lappland im Jahr 2021 Temperaturen von 34 Grad gemessen. Die Messungen stammen aus einer Region nördlich des 70. Breitengrades und gehören damit offiziell zum Polarkreis.",
+        "id": "aya_deu_63"
+    },
+    {
+        "instruction": "Wie oft kommt der Buchstabe x in dem Wort \"Alphabet\" vor?",
+        "input": "",
+        "output": "Der Buchstabe \"x\" ist nicht im Wort \"Alphabet\" enthalten. Die korrekte Antwort wäre also 0x.",
+        "id": "aya_deu_64"
+    },
+    {
+        "instruction": "Wo kann man auf Safari gehen?",
+        "input": "",
+        "output": "Beliebte Länder für Safari-Touren sind heutzutage Tansania, Südafrika, oder Kenya.",
+        "id": "aya_deu_65"
+    },
+    {
+        "instruction": "Nenne mir ein paar Geschenkidee für ein neugeborenes Kind. Formatiere die Antwort als Liste mit mindestens 5 verschiedenen Vorschlägen.",
+        "input": "",
+        "output": "Mögliche Geschenkideen für ein Neugeborenes können sehr unterschiedlich ausfallen und hängen z.B. vom Budget des Geschenks ab.\nEin paar Ideen wären:\n\n1. Ein Kuscheltier\n2. Kinderspielzeug, z.B. eine Rassel\n3. Kleidung für Babys\n4. Eine personalisierte Kuscheldecke\n5. Ein Maxi-Cosi",
+        "id": "aya_deu_66"
+    },
+    {
+        "instruction": "Wann hat Martin Luther gelebt?",
+        "input": "",
+        "output": "Martin Luther wurde am 10. November 10 1483 in Eisleben geboren, und starb im selben Ort am 18. Februar 1546.",
+        "id": "aya_deu_67"
+    },
+    {
+        "instruction": "Verfasse eine Anleitung, die das korrekte Verfassen einer Email Schritt für Schritt erklärt.",
+        "input": "",
+        "output": "E-Mail richtig schreiben – Schritt-für-Schritt-Anleitung\n\nSchritt 1: Die richtige E-Mail-Adresse\n\nVor allem bei geschäftlichen E-Mails oder bei Bewerbungen muss nicht nur die Empfänger-Adresse stimmen. Deine eigene E-Mail-Adresse sollte seriös sein und deinen eigenen Vor- und Nachnamen enthalten.\nE-Mail-Adressen, wie z. B. einhorn74@domain.de wirken nicht besonders professionell. Achte auch darauf, dass du beim Schreiben mit einer Person immer die gleiche E-Mail-Anschrift verwendest. \n\n ✗  einhorn74@domain.de\n ✓ vorname.nachname@domain.de\n\nSchritt 2: Der Betreff\n\nIm Betreff bringst du den Anlass deiner E-Mail genau auf den Punkt. So erkennt der Empfänger auf einen Blick, worum es inhaltlich in deiner Nachricht geht. Du fasst also in wenigen Worten den Inhalt deiner E-Mail zusammen.\nDer Betreff wird auch schon in der Übersicht des Posteinganges angezeigt. Er hilft also auch dem Empfänger zu entscheiden, ob eine E-Mail dringend ist oder ob es reicht, sie später zu lesen. Außerdem lassen sich E-Mails mit guten Angaben in der Betreffzeile leichter wieder finden und sortieren.\n\nE-Mail Formulierungen – Beispiele Betreffzeile:\n\n ✓  Bewerbung als Werkstudent im Bereich Social Media\n ✓  Zusammenfassung des Gesprächs vom 20. September\n ✓  Terminabsprache Projekt-Meeting \n\nIn diesen Beispielen wird dem Empfänger direkt klar, um was es in der E-Mail geht.\nVermeide Betreffzeilen, die nicht direkt auf das Thema eingehen, zu lang sind oder im schlimmsten Fall passiv-aggressiv klingen:\n\n ✗ Was soll das?\n ✗ Eine Frage\n ✗ Ich würde mich gerne ab 01.12 als Werkstudentin im Bereich Social Media bewerben\n ✗ Re: AW: Re: AW: Re: AW: Terminabsprache Meeting  \n\nSchritt 3: Die Begrüßung\n\nÄhnlich wie bei Briefen wird auch bei der E-Mail zwischen einer formellen und einer informellen Anrede unterschieden.  \nIn geschäftlichen E-Mails verwendest du eine formelle Anrede:\n\n ✓  Sehr geehrte(r) Frau/Herr Muster,\n ✓  Sehr geehrte Damen und Herren,\n\nIn privaten E-Mails darf es stattdessen eine persönliche Anrede sein:\n\n ✓  Hallo/Hi,\n ✓  Guten Tag,\n ✓  Liebe(r) …,\n\nBei Gruppen kannst du auch z. B. „Hallo zusammen“ schreiben. \nWenn du dir unsicher bist, entscheide dich immer für eine formelle Anrede. Denn neben der Begrüßung zeigst du mit der Anrede, dass du deinen Empfänger wertschätzt. Mit der höflichen Formulierung „Sehr geehrte…“ bist du da immer auf der sicheren Seite.\n\nRegeln für die Anrede\nReihenfolge bei mehreren Empfängern: \nWenn es keine Hierarchie gibt, wird aus Höflichkeit zuerst die Frau genannt. Bei hierarchischen Strukturen wird die höhergestellte Person, z. B. der Chef, zuerst genannt.\n\nUnbekannter Ansprechpartner bzw. unbekanntes Geschlecht:\nAm besten ist es natürlich, du ermittelst die Ansprechperson. Wenn das nicht möglich ist, kannst du die unpersönliche Anrede „Sehr geehrte Damen und Herren“ verwenden. Oder du entscheidest dich für eine genderneutrale Variante, wie „Guten Tag“.\n\nKomma oder Ausrufezeichen: \nVerwende bestenfalls ein Komma. Damit beendest du die Zeile, fügst danach einen Absatz ein und schreibst klein weiter. Eine andere Alternative ist das Ausrufezeichen. Darauf solltest du bei geschäftlichen E-Mails aber eher verzichten.\n\nTitel:\nTrägt deine Empfänger-Person einen akademischen Titel im Namen, musst du diesen auch in der Anrede nennen. Titel, die du erwähnen musst, sind: „Doktor/in“ (kannst du als „Dr.“ abkürzen) und „Professor/in“ (in der Anrede immer ausschreiben). Niedrigere akademische Grade, wie „Bachelor“, „Master“ oder „Diplom“ brauchst du nicht in der Anrede zu erwähnen. Besitzt jemand mehrere akademische Grade, reicht es, wenn du nur den höchsten Titel verwendest.\n\nSchritt 4: Die Einleitung\n\nBevor du mit deinem eigentlichen Anliegen beginnst, kommt eine kleine Einleitung. Sie sollte möglichst positiv sein, um die Stimmung des Empfängers aufzuheitern.\n\nDafür eignen sich besonders persönliche und individuelle Fragen oder Kommentare. Du könntest z. B. nach dem Urlaub oder einer überstandenen Krankheit fragen. Ebenso kannst du die Einleitung nutzen, um zum Thema hinzuführen oder um dich selbst vorzustellen. Es bietet sich auch immer gut an, ein vorangegangenes Gespräch aufzugreifen.\n\nAbhängig von der Situation gibt es mehrere Möglichkeiten, wie eine Einleitung aussehen kann:\n\n ✓  Hiermit möchte ich mich bei Ihnen für die ausgeschriebene Werkstudentenstelle bewerben.\n ✓  Vielen Dank für Ihre schnelle Antwort.\n ✓  Haben Sie vielen Dank für das nette Gespräch letzte Woche.\n ✓  Hatten Sie einen schönen Urlaub?\n\nSchritt 5: Der Hauptteil\n\nDer Hauptteil ist der wichtigste Teil deiner E-Mail. Hier versuchst du deine Inhalte einfach und kompakt zu vermitteln.\nDiese Tipps helfen dir, damit dein Leser die Nachricht schnell und richtig versteht:\n\n- Kurze Sätze sind einfacher zu lesen als lange Schachtelsätze. So fällt es dem Leser also leichter, Informationen aufzunehmen. \n- Durch optische Hervorhebungen lassen sich wichtige Daten und Fakten schneller finden. \n- Mit Absätzen kannst du den Text strukturieren. Als Faustregel gilt: Ungefähr 3 Sätze pro Absatz.\n-\tListen helfen, wichtiges Informationen schnell zu erkennen. Du kannst sie für Daten oder Fakten nutzen.\n-\tVerwende einfache Wörter, die jeder benutzt. So kannst du dir sicher sein, dass der Empfänger deine Nachricht versteht. Bei Experten kannst du natürlich auch Fachwörter nutzen.\n- Setze auf positive Sprache. Vor allem, wenn du Kritik übst oder dir etwas von deinem Empfänger wünscht, wird er dir so viel eher entgegenkommen.\n\nSchritt 6: Der Schluss\n\nDer Schlusssatz rundet deine E-Mail ab. Achte darauf, dass der Schluss freundlich ist. Auch wenn du dich in deiner E-Mail über etwas beschwerst, sollte dein letzter Satz versöhnlich und höflich sein. Du kannst deinen Schlusssatz auch verwenden, um eine Handlungsaufforderung unterzubringen.\n\nBeispiele:\n\n ✓  Ich freue mich sehr, schon bald wieder von Ihnen zu hören.\n ✓  Weitere Informationen zum vorgestellten Angebot finden Sie auch auf unserer Homepage.\n ✓  Ich wünsche Ihnen ein schönes Wochenende.\n\nSchritt 7: Grußformel\n\nDie Grußformel am Schluss der E-Mail ist mindestens genauso wichtig wie die Begrüßung am Anfang. Achte auch hier darauf, dass du freundlich und höflich bleibst.\nDie sicherste Variante ist hier „Mit freundlichen Grüßen“ — es ist aber auch die langweiligste Option. Wenn du einen positiven Eindruck hinterlassen willst, versuche deine Grußformel persönlicher zu gestalten.\n\nZum Beispiel so:\n\n ✓  Freundliche Grüße / Herzliche Grüße / Beste Grüße\n ✓  Viele Grüße nach München\n ✓  Einen guten Start in die Woche\n ✓  Mit sonnigen Grüßen aus Lissabon\n\nSchritt 8: Signatur\n\nAls Letztes kommt deine Signatur, also dein Name. In einem Geschäftsbrief solltest du hier noch den Namen des Unternehmens, die Kontaktdaten des Unternehmens, deine Position im Unternehmen sowie die Website oder Social-Media-Kanäle der Firma nennen.\nIn Outlook kannst du dir zum Beispiel eine vorgefertigte Signatur einrichten. Das ist vor allem bei geschäftlichen E-Mails sinnvoll.",
+        "id": "aya_deu_68"
+    },
+    {
+        "instruction": "Ich möchte einen Kuchen oder eine Torte verzieren. Was kann ich dafür verwenden?",
+        "input": "",
+        "output": "Für das Dekorieren von Torten kann man unterschiedliche Cremes oder Überzugs und Modelliermassen verwenden. \nBeliebte Cremes zum einstreichen von Torten und Kuchen sind u.a. \n- Buttercreme auf Basis von Butter und Puderzucker\n- Sahncreme auf Basis von Sahne\n- Ganache auf Basis von Schokolade und Sahne \n\nViele der Cremes lassen sich auch einfärben oder mit Früchten oder Geschmackspulver verfeinern. Einige der Cremes eignen sich auch zum Spritzen von Mustern mit Spritztüllen. Das hängt aber auch von der Konsistenz und dem verwendeten Rezept ab. \n\nFür die Überziehung von Torten kann man Fondant, eine Masse auf Basis von Zucker oder Marizipan verwenden. Die Torte muss vorher für die Haftung mit einer geeigneten Creme überzogen werden. Mit Fondant und Marizipan lassen sich auch Figuren und Dekoelemente formen. \n\nEine weitere Möglichkeit ist die Verwendung von Kuvertüre. \n\nEs gibt noch viele weitere Möglichkeiten Torten und Kuchen zu dekorieren, wie beispielsweise mit Früchten oder echten Blumen. Hier ist Kreativität gefragt.",
+        "id": "aya_deu_69"
+    },
+    {
+        "instruction": "Wer gewann mehr Grammys, Britney Spears oder Beyonce?\nKlassifizieren Sie die vorherige Frage in eine der folgenden Kategorien: Film, Musik, Geschichte, Wissenschaft, Sport",
+        "input": "",
+        "output": "Die richtige Kategorie ist Musik.",
+        "id": "aya_deu_70"
+    },
+    {
+        "instruction": "Welcher Kategorie lässt sich die folgende Frage zuordnen: \"Wer ist Cheftrainer der Cleveland Browns?\"",
+        "input": "",
+        "output": "Eine mögliche Kategorie für die genannte Frage wäre \"Sport\". Für eine spezifischere Klassifizierung ließe sich hier noch die Kategorie \"American Football\" nennen.",
+        "id": "aya_deu_71"
+    },
+    {
+        "instruction": "Verfassen Sie mir eine passende Trivia-Frage zur folgenden Kategorie: Video-Spiele.",
+        "input": "",
+        "output": "Was ist Marios ursprünglicher Name? Ossan",
+        "id": "aya_deu_72"
+    },
+    {
+        "instruction": "Geben Sie mir eine Triviafrage zur Kategorie \"Erdkunde\".",
+        "input": "",
+        "output": "Wie viele Counties (Landkreise) gibt es in Ohio?\nAntwort: Insgesamt sind es 88 Counties.",
+        "id": "aya_deu_73"
+    },
+    {
+        "instruction": "Wie viele englischsprachige Artikel gibt es auf Wikipedia?",
+        "input": "",
+        "output": "Im Dezember 2023 listet Wikipedia über 6.752.000 Artikel in der englischen Sprache. Es ist damit die am meisten verfügbare Sprache auf Wikipedia, gefolgt von Cebuano (rund 6.122.000 Artikel).",
+        "id": "aya_deu_74"
+    },
+    {
+        "instruction": "Gib mir mindestens 3 Vorschläge für passende Schlagzeilen zum folgenden Anfang eines Zeitungsartikels.\n\nDer Bundesverteidigungsminister hat neben Israel auch den Hafen von Beirut besucht, wo ein deutsches Marineschiff liegt. Nach Tel Aviv ging es über Umwege - dort versicherte Pistorius seinem Amtskollegen Solidarität.\n\nWer sehen will, wie angespannt die Lage im Nahen Osten ist, sollte auch auf die kleinen Dinge achten. Auf die verstärkten Wachen rund um und auf der \"Korvette Oldenburg\". Oder den deutschen Verteidigungsminister, der am Flughafen in Beirut kurz vor dem Abflug nach Tel Aviv kurzzeitig gestoppt wird.Normalerweise ist es diplomatischer Usus, die bewaffnete Sicherheitsentourage von Staatsgästen durchzuwinken oder gleich aufs Rollfeld vorfahren zu lassen. Doch im Moment erscheint vieles angespannter. Und so dauert es in Beirut ein paar Minuten, bis Boris Pistorius an der Sicherheitsschleuse vorbei das Flugzeug besteigen kann.",
+        "input": "",
+        "output": "Hier sind ein paar mögliche Schlagzeilen, die zum Artikel passen würden:\n\n- \"Keine Reise wie üblich\"\n- \"Boris Pistorius zu Besuch in Israel\"\n- \"Eine diplomatische Reise mit Gewicht\"",
+        "id": "aya_deu_75"
+    },
+    {
+        "instruction": "Aus welcher Kategorie stammt folgende Frage? War Jack Nicholson jemals in einem Film mit Dennis Hopper zu sehen?",
+        "input": "",
+        "output": "Die richtige Kategorie ist Film.",
+        "id": "aya_deu_76"
+    },
+    {
+        "instruction": "Antworte auf die folgende Frage, indem du die richtige Antwort aus den gelisteten Optionen auswählst.\nWer hatte als erster deutscher Schauspieler eine Oskar-Nominierung?\n\nA. Til Schweiger\nB. Nora Kerner\nC. Emil Jannings\nD. Albert Bassermann",
+        "input": "",
+        "output": "Die korrekte Antwort lautet \"C\". Emil Jannings gewann im Jahr 1928 einen Oskar für seine Rolle in \"Der Weg allen Fleisches\".",
+        "id": "aya_deu_77"
+    },
+    {
+        "instruction": "Während der Archäologe ein Lehrbuch las, sah er Artefakte, die er vor langer Zeit verloren hatte. Welche Gefühle löste dies in ihm aus? Wähle eine Antwort aus folgenden Optionen:\n\nA: Wut\nB: Selbstzweifel\nC: Nachdenklichkeit\nD: Lerneffekt\nE: schmerzhafte Erinnerungen",
+        "input": "",
+        "output": "Die richtige Antwort ist E.",
+        "id": "aya_deu_78"
+    },
+    {
+        "instruction": "Welcher Kategorie kann die folgende Frage zugeordnet werden: Wie lautet der Name des fünfzehnten Präsidenten der Vereinigten Staaten?",
+        "input": "",
+        "output": "Die korrekte Kategorie lautete \"Politik\".",
+        "id": "aya_deu_79"
+    },
+    {
+        "instruction": "Was ist die jährliche Durchschnittstemperatur in Deutschland?",
+        "input": "",
+        "output": "Laut Deutschem Wetterdienst liegt die Durchschnittstemperatur in den letzten 30 Jahre bei etwa 8.6°C.",
+        "id": "aya_deu_80"
+    },
+    {
+        "instruction": "Beantworte die folgende Frage:\nWenn es im letzten Jahr für 128 Tage geregnet hat, und dieses Jahr 50% mehr Regentage vorausgesagt wurden, an wie vielen Tagen wird es dieses Jahr vermutlich regnen?",
+        "input": "",
+        "output": "Bleibt es tatsächlich bei 50% mehr Regentagen, wird es voraussichtlich an 128 * 1,5 = 192 Tagen regnen.",
+        "id": "aya_deu_81"
+    },
+    {
+        "instruction": "Gib mir ein Trivia-Beispiel in der Kategorie: Videospiele",
+        "input": "",
+        "output": "Welches war das erste Final Fantasy-Spiel, das nicht ausschließlich offline gespielt wurde? Final Fantasy XI Online",
+        "id": "aya_deu_82"
+    },
+    {
+        "instruction": "Wie viele Tage hat ein Jahr?",
+        "input": "",
+        "output": "Ein Jahr hat in der Regel 365 Tage. Ausnahmen hierbei sind die sogenannten Schaltjahre, die alle vier Jahre 366 Tage haben. Der zusätzliche Schalttag ist der 29. Februar. Im Schnitt hat ein Jahr also 365.25 Tage.",
+        "id": "aya_deu_83"
+    },
+    {
+        "instruction": "Wie heißt der Vater von Thomas Gottschalk?",
+        "input": "",
+        "output": "Der Vater von Thomas Gottschalk heißt Hans Gottschalk.",
+        "id": "aya_deu_84"
+    },
+    {
+        "instruction": "Ist \"Hybrid Theory\" von Linkin Park ihr bestverkauftes Album?",
+        "input": "",
+        "output": "Ja, mit weltweit über 30 Millionen Einheiten ist es das fünftmeist verkaufte Album des 21. Jahrhunderts",
+        "id": "aya_deu_85"
+    },
+    {
+        "instruction": "Ich bin gerade dabei, ein Kreuzworträtsel zu lösen. Die Frage lautet \"Eine Hauptstadt\" und es sind 5 Buchstaben. Was sind mögliche Antworten?",
+        "input": "",
+        "output": "Es gibt viele Hauptstädte mit fünf Buchstaben. Mögliche Antworten wären beispielsweise \"KAIRO\", \"DAKAR\", oder \"ATHEN\".",
+        "id": "aya_deu_86"
+    },
+    {
+        "instruction": "Wie viele Alben hat Taylor Swift herausgebracht?",
+        "input": "",
+        "output": "Taylor Swift hat in ihrer bisherigen Karriere 10 Studioalben aufgenommen. Zusätzlich gibt es noch drei weitere Neuaufnahmen (Re-Recordings), vier Live-Alben und fünf Extended Plays.",
+        "id": "aya_deu_87"
+    },
+    {
+        "instruction": "Ich bin eine faule Person. Wie kann ich fitter werden, ohne mich sehr anstrengen zu müssen?",
+        "input": "",
+        "output": "Schön das sie ihre Fitness verbessern möchten. Es gibt verschieden Wege, um die eigene Fitness zu verbessern. Ein einfacher Weg, um anzufangen, sind regelmäßige Spaziergänge. Die Bewegung allein hilft bereits, eine Grundfitness aufzubauen. Alternativ gibt es auch bestimmte Sportarten, die auch für Anfänger gut geignet sind. Schwimmen z.B. hat eine sehr geringe Auslastung auf die Gelenke. Für den gezielten Muskelaufbau sind zu Beginn auch Körper-Übungen vollkommen ausreichend, bei denen das eigene Körpergewicht als Trainingsgewicht fungiert.",
+        "id": "aya_deu_88"
+    },
+    {
+        "instruction": "Aus welchen Elementen besteht ein Molekül Wasser?",
+        "input": "",
+        "output": "Die chemische Formel für Wasser lautet H2O: Es binden sich jeweils zwei Wasserstoffatome (H) und ein Sauerstoffatom (O) sind zu einem Wassermolekül.",
+        "id": "aya_deu_89"
+    },
+    {
+        "instruction": "Wie viele englischsprachige Artikel gibt es auf Wikipedia?",
+        "input": "",
+        "output": "Im November 2023 listet Wikipedia über 6.745.598 Artikel in der englischen Sprache. Es ist damit die am meisten verfügbare Sprache auf Wikipedia, gefolgt von Cebuano (rund 6.122.094 Artikel).",
+        "id": "aya_deu_90"
+    },
+    {
+        "instruction": "Welche Länder haben im Golfkrieg gegen die USA gekämpft?",
+        "input": "",
+        "output": "Die Gegenseit im Golfkrieg war der Irak als einzige Nation gegen die 42-Länder-Koalition auf der Seite der USA.",
+        "id": "aya_deu_91"
+    },
+    {
+        "instruction": "Wofür steht der Begriff GOAT?",
+        "input": "",
+        "output": "Die Bezeichnung GOAT stammt aus dem Englischen und steht für \"Greatest Of All Time\", oder \"Beste(r) aller Zeiten\". Die Bezeichnung wird an überragende Talente in einem bestimmten Feld oder Sport vergeben.",
+        "id": "aya_deu_92"
+    },
+    {
+        "instruction": "Vervollständigen Sie den folgenden Absatz mit einer sinnvollen Fortsetzung. Das Thema ist \"Belgisches Boom-Team im internationalen Kontext\":\n2013 war Belgien Gastgeberland der Europameisterschaft in Boom. Vor heimischem Publikum verloren die Belgier im Finale mit 1:3 gegen die deutsche Mannschaft. 2014 trafen die Belgier und die Deutschen bei der Weltmeisterschaft in Den Haag",
+        "input": "",
+        "output": "im Spiel um Platz 5 aufeinander, die Belgier gewannen mit 4:2. Ebenfalls Fünfte wurden die Belgier bei der Europameisterschaft 2015 in London. 2016 bei den Olympischen Spielen in Rio de Janeiro gewannen die Belgier im Halbfinale mit 3:1 gegen die Niederländer. Im Finale unterlagen sie den Argentiniern mit 2:4.",
+        "id": "aya_deu_93"
+    },
+    {
+        "instruction": "Wie viele Elemente gibt es im Periodensystem?",
+        "input": "",
+        "output": "Insgesamt sind bis heute 118 Elemente nachgewiesen worden, welche im Periodensystem festgehalten sind. Davon kommen die Elemente mit Ordnungszahl von 1 bis 94 auf der Erde natürlich vor, allerdings oft in Form von chemischen Verbindungen und zum Teil nur in äußerst geringen Spuren, z. B. als kurzlebige Zwischenprodukte im radioaktiven Zerfall.",
+        "id": "aya_deu_94"
+    },
+    {
+        "instruction": "Welche Stadt auf den Philippinen liegt geografisch in der Region Benguet und wird \"Stadt der Kiefern\" genannt?",
+        "input": "",
+        "output": "Die gesuchte Stadt trägt den Namen Baguio. Sie liegt  im Norden der philippinischen Hauptinsel Luzón, auf 1500m Höhe. Sie war zwischen 1910 und 1975 die \"Sommer-Hauptstadt\" der Philippinen.",
+        "id": "aya_deu_95"
+    },
+    {
+        "instruction": "Wie kann ich Kaffee zubereiten?",
+        "input": "",
+        "output": "Es gibt verschiedene Möglichkeiten. Ein paar der beliebtesten Varianten sind French Press, Filterkaffeezubereitung, oder das (besonders in Südeuropa beliebte) Espresso-Kännchen.",
+        "id": "aya_deu_96"
+    },
+    {
+        "instruction": "Vervollständigen Sie den finalen Satz im folgenden Text:\n\"2016 in Luzern siegten Zhang Ling, Jiang Yan, Wang Yuwei und Zhang Xinyue im Doppelvierer bei der Qualifikationsregatta für die Olympischen Spiele in Rio de Janeiro. Bei der Olympischen Regatta waren sieben Boote am Start, ...\"",
+        "input": "",
+        "output": "die Chinesinnen erreichten über den Hoffnungslauf das Finale. Im Finale belegten sie den sechsten Platz.",
+        "id": "aya_deu_97"
+    },
+    {
+        "instruction": "Was ist die größte Stadt Europas?",
+        "input": "",
+        "output": "Die Antwort ist nicht ganz eindeutig. Wenn es um das \"geographische Europa\" geht, liegt Moskau mit über 17 Millionen Einwohnern an erster Stelle. Für Städte in der Europäischen Union ist es derzeit Paris, mit knapp über 11 Millionen Einwohnern.",
+        "id": "aya_deu_98"
+    },
+    {
+        "instruction": "Wann wurde das Element Wasserstoff entdeckt?",
+        "input": "",
+        "output": "Im Jahre 1766 vom englischen Chemiker und Physiker Henry Cavendish.",
+        "id": "aya_deu_99"
+    },
+    {
+        "instruction": "Wo befindet sich Eisleben?",
+        "input": "",
+        "output": "Eisleben ist eine Stadt im deutschen Bundesland Sachsen-Anhalt. Die nächstgelegene größere Stadt in der Nähe von Eisleben ist Halle an der Saale.",
+        "id": "aya_deu_100"
+    },
+    {
+        "instruction": "Wie oft kommt der Buchstabe x in dem Wort \"Alphabet\" vor?",
+        "input": "",
+        "output": "Der Buchstabe \"x\" ist nicht im Wort \"Alphabet\" enthalten. Die korrekte Antwort wäre also keinmal vor.",
+        "id": "aya_deu_101"
+    },
+    {
+        "instruction": "Gib mir eine Trivia-Frage (inklusive Antwort) für die Kategorie \"Geschichte\"",
+        "input": "",
+        "output": "Wer war die erste weibliche Gouverneurin von Wyoming? Nellie Tayloe Ross",
+        "id": "aya_deu_102"
+    },
+    {
+        "instruction": "Wie viele Schauspieler haben James Bond gespielt?",
+        "input": "",
+        "output": "Bisher waren sechs verschiedene Darsteller als Film-Geheimagent \"James Bond\" unterwegs.",
+        "id": "aya_deu_103"
+    },
+    {
+        "instruction": "Generiere eine komplexere Variante des folgenden Satzes:\nSingapur zählt zu den Ländern mit den höchsten Testergebnissen in Mathematik, Naturwissenschaften und Alphabetisierung.",
+        "input": "",
+        "output": "Singapur zählt zu den Ländern mit den höchsten Testergebnissen in Mathematik, Naturwissenschaften und Alphabetisierung und wird als eines der weltweit leistungsstärksten Schulsysteme gehandelt.",
+        "id": "aya_deu_104"
+    },
+    {
+        "instruction": "Was ist die größte Stadt von Europa?",
+        "input": "",
+        "output": "Die Antwort ist nicht ganz eindeutig. Wenn es um das \"geographische Europa\" geht, liegt Moskau mit über 17 Millionen Einwohnern an erster Stelle. Für Städte in der Europäischen Union ist es derzeit Paris, mit knapp über 11 Millionen Einwohnern.",
+        "id": "aya_deu_105"
+    },
+    {
+        "instruction": "Wie kann ich ein Ei zubereiten?",
+        "input": "",
+        "output": "Die gängisten Möglichkeiten, ein Ei zuzubereiten, sind:\n- Hartgekochtes Ei: Das Ei wird in einen Topf mit kochendem Wasser gelegt, und hat eine Kochdauer von 5-10 Minuten. Dabei hängt die Kochzeit von der bevorzugten Konsistenz des gekochten Eis ab.\n- Spiegelei: Dazu das Ei einfach in einer Pfanne mit etwas Öl aufschlagen und solange auf mittlerer Hitze Braten, bis sich das Eigelb setzt.\n- Rührei: Auch hier wird dafür eine Pfanne mit etwas Öl benötigt. Im Gegensatz zum Spiegelei schlägt man das Ei allerdings vorher in eine separate Schale, um es mit etwas Milch und Salz/Pfeffer zu vermischen. Die Mischung kann dann in die Pfanne gegeben werden, und für ein paar Minuten unter konstantem Umrühren bei mittlerer Hitze gebraten werden.\n\nBei Eiern ist grundsätzlich zu bedenken, dass der Rohverzehr von Eiern zu einer Infektion mit Salmonellen führen kann.",
+        "id": "aya_deu_106"
+    },
+    {
+        "instruction": "Was ist der beliebteste Studiengang in Deutschland?",
+        "input": "",
+        "output": "Laut Statista war der beliebteste Studiengang im Wintersemester 2022/2023 Betriebswirtschaftslehre (BWL) mit rund 237.000 eingeschriebenen Studenten. Platz zwei belegt Informatik, mit rund 143.000 Studierenden, gefolgt von Rechtswissenschaften (ca. 116.000 eingeschrieben Studierende).",
+        "id": "aya_deu_107"
+    },
+    {
+        "instruction": "Welche Farbe hat die Kleidung von Marios Zwillingsbruder?",
+        "input": "",
+        "output": "Die Hosenträgers von Marios Bruder Luigi sind grün.",
+        "id": "aya_deu_108"
+    },
+    {
+        "instruction": "Welcher US-Präsident wurde am 16. März 1751 geboren?",
+        "input": "",
+        "output": "Am 16. März 1751 wurde James Madison in Port Conway, Virgina, geboren. Er wurde später zum vierten Präsidenten der Vereinigten Staaten von Amerika gewählt.",
+        "id": "aya_deu_109"
+    },
+    {
+        "instruction": "In wie vielen Filmen hat Til Schweiger bisher mitgewirkt?",
+        "input": "",
+        "output": "Als Schauspieler war Til Schweiger in mehr als 57 Filmen aktiv beteiligt.",
+        "id": "aya_deu_110"
+    },
+    {
+        "instruction": "Was ist die zweitälteste Universität, die sich in Cambridge befindet?",
+        "input": "",
+        "output": "Die zweitälteste Universität in Cambridge ist die Anglia Ruskin University.",
+        "id": "aya_deu_111"
+    },
+    {
+        "instruction": "Geben Sie mir 6 Vorschläge für Aktivitäten an einem verregneten Tag. Es soll keine Arbeit sein, sondern lediglich Aktivitäten zur Erholung.",
+        "input": "",
+        "output": "Hier sind sechs Vorschläge für einen regnerischen Tag:\n1. Ein Museumsbesuch\n2. Brettspiele\n3. Puzzle\n4. Kuchen backen\n5. Malen oder Zeichnen\n6. Einen Film ansehen",
+        "id": "aya_deu_112"
+    },
+    {
+        "instruction": "Vervollständige den nachfolgenden Satz. Für Russland nahm Barbaschow im Juniorenbereich an der World U-17 Hockey Challenge 2012, dem Ivan Hlinka Memorial Tournament 2012, der U18-Junioren-Weltmeisterschaft 2013",
+        "input": "",
+        "output": "sowie den U20-Junioren-Weltmeisterschaften 2014 und 2015 teil.",
+        "id": "aya_deu_113"
+    },
+    {
+        "instruction": "Was ist die größte Stadt von Europa?",
+        "input": "",
+        "output": "Die Antwort ist nicht ganz eindeutig. Wenn es um das \"geographische Europa\" geht, liegt Istanbul mit knapp 16 Millionen Einwohnern an erster Stelle. Für Städte in der Europäischen Union ist es derzeit Berlin, mit 3,8 Millionen Einwohnern.",
+        "id": "aya_deu_114"
+    },
+    {
+        "instruction": "Es gibt eine Wasserquelle und zwei Kanister. Einer der Kanister hat ein Fassungsvermögen von genau drei Litern, in den anderen Kanister passen fünf Liter. Wie kann mit möglichst wenig Schritten durch geschicktes Umschütten 4 Liter Wasser abmessen.",
+        "input": "",
+        "output": "1. Zuerst den Eimer mit 3L Fassungsvermögen füllen.\n2. Den Inhalt in den größeren Container gießen.\n3. Den 3L-Eiimer erneut auffüllen, und das verbleibende Volumen im größeren Kanister auffüllen (2L sind noch frei).\n4. Den 5L-Eimer ausleeren.\n5. Danach den verbleibenden Liter Wasser im kleineren Eimer erneut in den großen Eimer gießen.\n6. Den 3L-Eimer ein letztes Mal auffüllen, und zum Liter im größeren Gefäß geben. Dadurch sind genau 4L Wasser im großen Eimer.",
+        "id": "aya_deu_115"
+    },
+    {
+        "instruction": "Was ist die jährliche Durchschnittstemperatur in Deutschland?",
+        "input": "",
+        "output": "Laut Deutschem Wetterdienst liegt die Durchschnittstemperatur über die letzten 30 Jahre bei etwa 8.6°C.",
+        "id": "aya_deu_116"
+    },
+    {
+        "instruction": "Worum geht es im Film \"Die Matrix\"?",
+        "input": "",
+        "output": "Matrix (englischer Originaltitel: The Matrix) ist ein Science-Fiction-Film aus dem Jahr 1999. Der Film handelt von Hacker Thomas Anderson, alias Neo, der herausfindet, dass die Menschheit in einer Computersimulation gefangen ist. Zusammen mit seinen Mitstreitern Morpheus und Trinity versucht er, aus der Simulation auszubrechen.",
+        "id": "aya_deu_117"
+    },
+    {
+        "instruction": "Verfasse eine Anleitung, die das korrekte Verfassen einer Email Schritt für Schritt erklärt.",
+        "input": "",
+        "output": "E-Mail richtig schreiben – Schritt-für-Schritt-Anleitung\n\nSchritt 1: Die richtige E-Mail-Adresse\nVor allem bei geschäftlichen E-Mails oder bei Bewerbungen muss nicht nur die Empfänger-Adresse stimmen. Deine eigene E-Mail-Adresse sollte seriös sein und deinen eigenen Vor- und Nachnamen enthalten.\nE-Mail-Adressen, wie z. B. einhorn74@domain.de wirken nicht besonders professionell. Achte auch darauf, dass du beim Schreiben mit einer Person immer die gleiche E-Mail-Anschrift verwendest. \n\n ✗  einhorn74@domain.de\n ✓ vorname.nachname@domain.de\n\nSchritt 2: Der Betreff\nIm Betreff bringst du den Anlass deiner E-Mail genau auf den Punkt. So erkennt der Empfänger auf einen Blick, worum es inhaltlich in deiner Nachricht geht. Du fasst also in wenigen Worten den Inhalt deiner E-Mail zusammen.\nDer Betreff wird auch schon in der Übersicht des Posteinganges angezeigt. Er hilft also auch dem Empfänger zu entscheiden, ob eine E-Mail dringend ist oder ob es reicht, sie später zu lesen. Außerdem lassen sich E-Mails mit guten Angaben in der Betreffzeile leichter wieder finden und sortieren.\n\nE-Mail Formulierungen – Beispiele Betreffzeile:\n\n ✓  Bewerbung als Werkstudent im Bereich Social Media\n ✓  Zusammenfassung des Gesprächs vom 20. September\n ✓  Terminabsprache Projekt-Meeting \n\nIn diesen Beispielen wird dem Empfänger direkt klar, um was es in der E-Mail geht.\nVermeide Betreffzeilen, die nicht direkt auf das Thema eingehen, zu lang sind oder im schlimmsten Fall passiv-aggressiv klingen:\n\n ✗ Was soll das?\n ✗ Eine Frage\n ✗ Ich würde mich gerne ab 01.12 als Werkstudentin im Bereich Social Media bewerben\n ✗ Re: AW: Re: AW: Re: AW: Terminabsprache Meeting  \n\nSchritt 3: Die Begrüßung\nÄhnlich wie bei Briefen wird auch bei der E-Mail zwischen einer formellen und einer informellen Anrede unterschieden.  \nIn geschäftlichen E-Mails verwendest du eine formelle Anrede:\n\n ✓  Sehr geehrte(r) Frau/Herr Muster,\n ✓  Sehr geehrte Damen und Herren,\n\nIn privaten E-Mails darf es stattdessen eine persönliche Anrede sein:\n\n ✓  Hallo/Hi,\n ✓  Guten Tag,\n ✓  Liebe(r) …,\n\nBei Gruppen kannst du auch z. B. „Hallo zusammen „ schreiben. \nWenn du dir unsicher bist, entscheide dich immer für eine formelle Anrede. Denn neben der Begrüßung zeigst du mit der Anrede, dass du deinen Empfänger wertschätzt. Mit der höflichen Formulierung „Sehr geehrte…“ bist du da immer auf der sicheren Seite.\n\nRegeln für die Anrede\nReihenfolge bei mehreren Empfängern: \nWenn es keine Hierarchie gibt, wird aus Höflichkeit zuerst die Frau genannt. Bei hierarchischen Strukturen wird die höhergestellte Person, z. B. der Chef, zuerst genannt.\n\nUnbekannter Ansprechpartner bzw. unbekanntes Geschlecht:\nAm besten ist es natürlich, du ermittelst die Ansprechperson. Wenn das nicht möglich ist, kannst du die unpersönliche Anrede „Sehr geehrte Damen und Herren“ verwenden. Oder du entscheidest dich für eine genderneutrale Variante, wie „Guten Tag“.\n\nKomma oder Ausrufezeichen: \nVerwende bestenfalls ein Komma. Damit beendest du die Zeile, fügst danach einen Absatz ein und schreibst klein weiter. Eine andere Alternative ist das Ausrufezeichen. Darauf solltest du bei geschäftlichen E-Mails aber eher verzichten.\n\nTitel:\nTrägt deine Empfänger-Person einen akademischen Titel im Namen, musst du diesen auch in der Anrede nennen. Titel, die du erwähnen musst, sind: „Doktor/in“ (kannst du als „Dr.“ abkürzen) und „Professor/in“ (in der Anrede immer ausschreiben). Niedrigere akademische Grade, wie „Bachelor“, „Master“ oder „Diplom“ brauchst du nicht in der Anrede zu erwähnen. Besitzt jemand mehrere akademische Grade, reicht es, wenn du nur den höchsten Titel verwendest.\nSchritt 4: Die Einleitung\nim Video\n(01:57)\nBevor du mit deinem eigentlichen Anliegen beginnst, kommt eine kleine Einleitung. Sie sollte möglichst positiv sein, um die Stimmung des Empfängers aufzuheitern.\n\nDafür eignen sich besonders persönliche und individuelle Fragen oder Kommentare. Du könntest z. B. nach dem Urlaub oder einer überstandenen Krankheit fragen. Ebenso kannst du die Einleitung nutzen, um zum Thema hinzuführen oder um dich selbst vorzustellen. Es bietet sich auch immer gut an, ein vorangegangenes Gespräch aufzugreifen.\n\nAbhängig von der Situation gibt es mehrere Möglichkeiten, wie eine Einleitung aussehen kann:\n\n ✓  Hiermit möchte ich mich bei Ihnen für die ausgeschriebene Werkstudentenstelle bewerben.\n ✓  Vielen Dank für Ihre schnelle Antwort.\n ✓  Haben Sie vielen Dank für das nette Gespräch letzte Woche.\n ✓  Hatten Sie einen schönen Urlaub?\n\nSchritt 5: Der Hauptteil\n\nDer Hauptteil ist der wichtigste Teil deiner E-Mail. Hier versuchst du deine Inhalte einfach und kompakt zu vermitteln.\nDiese Tipps helfen dir, damit dein Leser die Nachricht schnell und richtig versteht:\n\n- Kurze Sätze sind einfacher zu lesen als lange Schachtelsätze. So fällt es dem Leser also leichter, Informationen aufzunehmen. \n- Durch optische Hervorhebungen lassen sich wichtige Daten und Fakten schneller finden. \n- Mit Absätzen kannst du den Text strukturieren. Als Faustregel gilt: Ungefähr 3 Sätze pro Absatz.\n-\tListen helfen, wichtiges Informationen schnell zu erkennen. Du kannst sie für Daten oder Fakten nutzen.\n-\tVerwende einfache Wörter, die jeder benutzt. So kannst du dir sicher sein, dass der Empfänger deine Nachricht versteht. Bei Experten kannst du natürlich auch Fachwörter nutzen.\n- Setze auf positive Sprache. Vor allem, wenn du Kritik übst oder dir etwas von deinem Empfänger wünscht, wird er dir so viel eher entgegenkommen.\n\nSchritt 6: Der Schluss\n\nDer Schlusssatz rundet deine E-Mail ab. Achte darauf, dass der Schluss freundlich ist. Auch wenn du dich in deiner E-Mail über etwas beschwerst, sollte dein letzter Satz versöhnlich und höflich sein. Du kannst deinen Schlusssatz auch verwenden, um eine Handlungsaufforderung unterzubringen.\n\nBeispiele:\n\n ✓  Ich freue mich sehr, schon bald wieder von Ihnen zu hören.\n ✓  Weitere Informationen zum vorgestellten Angebot finden Sie auch auf unserer Homepage.\n ✓  Ich wünsche Ihnen ein schönes Wochenende.\n\nSchritt 7: Grußformel\n\nDie Grußformel am Schluss der E-Mail ist mindestens genauso wichtig wie die Begrüßung am Anfang. Achte auch hier darauf, dass du freundlich und höflich bleibst.\nDie sicherste Variante ist hier „Mit freundlichen Grüßen“ — es ist aber auch die langweiligste Option. Wenn du einen positiven Eindruck hinterlassen willst, versuche deine Grußformel persönlicher zu gestalten.\n\nZum Beispiel so:\n\n ✓  Freundliche Grüße / Herzliche Grüße / Beste Grüße\n ✓  Viele Grüße nach München\n ✓  Einen guten Start in die Woche\n ✓  Mit sonnigen Grüßen aus Lissabon\n\nSchritt 8: Signatur\n\nAls Letztes kommt deine Signatur, also dein Name. In einem Geschäftsbrief solltest du hier noch den Namen des Unternehmens, die Kontaktdaten des Unternehmens, deine Position im Unternehmen sowie die Website oder Social-Media-Kanäle der Firma nennen.\nIn Outlook kannst du dir zum Beispiel eine vorgefertigte Signatur einrichten. Das ist vor allem bei geschäftlichen E-Mails sinnvoll.",
+        "id": "aya_deu_118"
+    },
+    {
+        "instruction": "Schreiben Sie eine Fortsetzung für diesen Absatz:\nNach Ausbruch des Russisch-Türkischen Krieges 1768 erhielt Rumjanzew 1770 das Oberkommando über die Armee. Am 28. Juni 1770 schlug er unweit der Räbnia Mogila 20.000 Türken in die Flucht, trug am 18. Juli in der Schlacht an der Larga",
+        "input": "",
+        "output": "einen entscheidenden Sieg über das 80.000 Mann starke Heer des Tatarenkhans davon, schlug am 1. August in der Schlacht von Cahul mit nur 17.000 Mann die 150.000 Mann starke Armee des Großwesirs und schloss am 21. Juli 1774 den Frieden von Küçük Kaynarca. Für seine Siege wurde er mit dem Ehrentitel \"Sadunaiski\" (d. h. Überschreiter der Donau) ausgezeichnet und von der Zarin Katharina in den Rang eines Feldmarschalls erhoben.",
+        "id": "aya_deu_119"
+    },
+    {
+        "instruction": "Verfasse eine Zusammenfassung des folgenden Texts:\n        \nDas Absperrbauwerk Murwani besteht aus drei Teilen: einem Staudamm mit einer Kronenlänge von 575 m auf der rechten Seite, einer Hochwasserentlastung in der Mitte sowie einem weiteren Staudamm mit einer Kronenlänge von 437 m auf der linken Seite. Die beiden Staudämme verfügen über einen Asphaltkern, um die Dichtigkeit sicherzustellen. Dafür wurden insgesamt 27.500 m3 (bzw. 80.000 t) Asphalt benötigt.  Die Dammkrone liegt auf einer Höhe von 251 m über dem Meeresspiegel. Die Höhe des rechten Staudamms beträgt 102 (bzw. 91 oder 101) m über der Gründungssohle, sein Volumen liegt bei 5,35 Mio. m3. Die Werte für den linken Staudamm liegen bei 30 m Höhe bzw. einem Volumen von 0,65 Mio. m3.\n\n  Der Stausee kann bis zu 150 Mio. m3 Wasser speichern. Der jährliche Zufluss in den Stausee wird auf 31 Mio. m3 geschätzt, wovon ungefähr die Hälfte in einer Anlage zur Trinkwassergewinnung verwendet werden soll, die unterhalb des Staudamms liegt. Die Anlage soll 40.000 m3 Wasser am Tag verarbeiten können.  Da die Verdunstung bei Stauseen in Wadis bis zu 80 % pro Jahr betragen kann und im Falle des Stausees Murwani auf bis zu 6 m pro Jahr geschätzt wird, gibt es Überlegungen, einen Teil des im Stausee gespeicherten Wassers in einen Aquifer weiterzuleiten.\n\n  Der Auftragswert für das Projekt betrug 263 Mio. SAR. Die Talsperre Murwani ist Teil eines Projekts der saudischen Regierung, die insgesamt fünf Dämme mit einem Auftragswert von ca. 1 Mrd. SAR errichten lassen will.",
+        "input": "",
+        "output": "Die Talsperre Murwani besteht aus drei Teilen. Zwei Staudämmen, sowie einer Hochwasserentlastung.",
+        "id": "aya_deu_120"
+    },
+    {
+        "instruction": "Beantworte die folgende Frage. Wann haben die USA die Sommerzeit eingeführt und wer hat sie ursprünglich vorgeschlagen?",
+        "input": "",
+        "output": "Die USA haben die Sommerzeit 1918 eingeführt. Vorgeschlagen wurde diese 1895 von George Vernon Hudson bzw. 1907 von William Willett.",
+        "id": "aya_deu_121"
+    },
+    {
+        "instruction": "Welcher Staat hat mehr Wählerstimmen, Kalifornien oder Texas?",
+        "input": "",
+        "output": "Der Bundesstaat Kalifornien hatte bei der letzten Präsidentschaftswahl der Vereinigten Staaten mehr Wählerstimmen vorzuweisen.",
+        "id": "aya_deu_122"
+    },
+    {
+        "instruction": "Wurde das letzte „Harry Potter“-Buch geschrieben bevor der erste Film entstand?",
+        "input": "",
+        "output": "Nein, der erste Film ist nach der Veröffentlichung des letzten Buches erschienen.",
+        "id": "aya_deu_123"
+    },
+    {
+        "instruction": "Welche Fragen kann ich einem KI-Chatbot stellen?",
+        "input": "",
+        "output": "Einem KI-Chatbot kannst du Fragen in verschienden Bereichen stellen. So sind beispielsweise Wissensfragen wie \"Wer sind die berühmtesten Komponisten des 20.Jahrhundert?\" möglich.  Die Fragen können dabei offen formuliert sein, wie in dem Beispiel oder geschlossen. Bei geschlossenen Fragen beantwortet der KI-Chatbot die Frage anhand eines gegebenen Kontext oder Antwortoptionen. Fragen zu aktuellen Geschehnissen oder beispielsweise \"Wie ist das Wetter heute?\" sind nicht möglich, da Chatbots normalerweise auf vergangenen Daten trainiert sind und keinen Zugriff auf tagsaktuelle Informationen haben. Abgesehen von reinen Wissensfragen können KI-Chatsbots unter anderem die folgenden Aufgaben erfüllen: \n- Freie Text-Generation, z.B. das Erstellen von Emails oder Artikeln.\n- Brainstorming, also die Kreation von mehreren Vorschlägen unter bestimmten Themenvorgaben.\n- Gesprächsverläufe (Chats), welche einen Verlauf aus mehreren Antworten zusammensetzen.\n- Editieren von bestehenden Texten, z.B. um den Lesefluss zu verbessern oder Schreibfehler zu entdecken.\n- Die Erstellung von Textzusammenfassungen aus einem gegebenen Text.\n- Übersetzung von Texten in eine andere Sprache\n- Generierung von Code für verschiedene Programmiersprachen \n\nNeben Fragen sind KI-Chatbots auch in der Lage Anweisungen zu folgen. Beispielsweise kannst du statt der Frage \"Kannst du eine Texterfassung zum Thema Fußball erstellen?\" auch die Anweisung geben \"Erstelle einen Textzusammenfassung zum Thema Fußball\".",
+        "id": "aya_deu_124"
+    },
+    {
+        "instruction": "Woher kommt AC/DC",
+        "input": "",
+        "output": "Die Band AC/DC stammt ursprünglich aus Sydney, Australien.",
+        "id": "aya_deu_125"
+    },
+    {
+        "instruction": "In welchen Jahr wurde John F. Kennedy ermordet?",
+        "input": "",
+        "output": "John F. Kennedy wurde im Jahr 1963 erschossen.",
+        "id": "aya_deu_126"
+    },
+    {
+        "instruction": "Bei der folgenden Aussage: \"In jeder 20. Stelle liegt...\". Wie viele Stellen sind das in Prozent? Erkläre die Lösung Schritt für Schritt.",
+        "input": "",
+        "output": "In Prozent sind das 5% aller Stellen.\n\nBerechnet wird das wie folgt: \nWenn man insgesamt 20 Stellen hätte und jede 20. Stelle nimmt, dann sind das 1 von 20 Stellen, also (1/20)*100 = 5. Bei 40 Stellen wären es 2 Stellen, also (2/40)*100 = 5 und so weiter.",
+        "id": "aya_deu_127"
+    },
+    {
+        "instruction": "Wie groß ist der durchschnittliche Niederländer?",
+        "input": "",
+        "output": "Basierend auf einer Statistik des Statistischen Bundesamtes der Niederlande sind Männer im Jahr 2021 im Schnitt 182.9 cm groß (Befragung 19-Jähriger Niederländer, eigene Angaben). Frauen des gleichen Alters sind im Schnitt 169.3 cm groß.",
+        "id": "aya_deu_128"
+    },
+    {
+        "instruction": "Was sind Beispiele für exotische Früchte?",
+        "input": "",
+        "output": "Weniger bekannt in westlichen Ländern sind die Drachenfrucht, Starfrucht, Mangostane, oder Stachelannone.",
+        "id": "aya_deu_129"
+    },
+    {
+        "instruction": "Von welchem bedeutenden historischen Event handelt der folgende Text:\nAm 23. August 1887 beschloss das englische Parlament daher den \"Merchandise Marks Act 1887\". Dieser schrieb vor, dass auf Waren unmissverständlich das Herkunftsland anzugeben sei. Importierte Ware wurde so für jedermann erkennbar. Ein Auslöser für diese Entwicklung in Großbritannien waren unter anderem Waren aus Chemnitz auf der Weltausstellung London 1862; diese brachen erstmals die englische Dominanz im Maschinenbau. Beispielsweise bezeichnete das berühmte Jurymitglied Sir Joseph Whitworth die Maschinen von Johann von Zimmermann erstmals als „very good indeed“ („tatsächlich sehr gut“).",
+        "input": "",
+        "output": "Der Text hat keinen eindeutigen Hinweis auf ein zentrales historisches Event.\nIm Text selbst werden die Weltausstellung in London im Jahr 1862 erwähnt, sowie der Beschluss des \"Merchandise Marks Act\". Aus dem Kontext des Artikels lässt sich aber auch breiter auf die industrielle Revolution schließen, die in der zweiten Hälfte des 19. Jahrhunderts in England voranschritt.",
+        "id": "aya_deu_130"
+    },
+    {
+        "instruction": "Wer hatte die kürzere Regierungszeit, Heinrich III. von England oder Edward III. von England?",
+        "input": "",
+        "output": "Edward III. war von 1327 bis 1377 König von England und damit rund 50 Jahre Regent. Im Vergleich dazu regierte Heinrich III. von 1216 bis zum Jahr 1272, und war damit länger an der Macht. Die korrekte Antwort lautet als Edward III.",
+        "id": "aya_deu_131"
+    },
+    {
+        "instruction": "Bei den Olympischen Spielen 1968 in Mexiko-Stadt erreichte er über 400 m das Viertelfinale und wurde Fünfter in der 4-mal-400-Meter-Staffel.\nWie viele Podiumsplätze erreichte er insgesamt?",
+        "input": "",
+        "output": "Er erreichte keinen einzigen Podiumsplatz.",
+        "id": "aya_deu_132"
+    },
+    {
+        "instruction": "Wo finde ich kostenlose wissenschaftliche Artikel im Internet?",
+        "input": "",
+        "output": "Die Webseite arXiv.org veröffentlicht täglich neue wissenschaftliche Beiträge. Allerdings ist zu bedenken, dass es sich hier um ungeprüfte Artikel handelt, die nicht durch ein \"Peer Review\"-System von anderen Wissenschaftlern auf Korrektheit überprüft wurden. Außerdem ist arXiv eine Plattform für naturwissenschaftliche Artikel, bei der Hauptsächlich die Disziplinen Mathematik, Physik, sowie Informatik veröffentlichen. Verwandte Plattformen, wie z.B. medRxiv.org, sind das entsprechende Pendant für Gesundheitswissenschaften.",
+        "id": "aya_deu_133"
+    },
+    {
+        "instruction": "Vervollständige den folgenden Satz:\nTennis ist ein",
+        "input": "",
+        "output": "Tennis ist ein Ballsport, der auf einem rechteckigen Spielfeld mit einem Netz in der Mitte gespielt wird. Dabei versuchen die Spieler, den Tennisball mit einem Schläger über das Netz in das Spielfeld des Gegners zu schlagen.",
+        "id": "aya_deu_134"
+    },
+    {
+        "instruction": "Wie viele Buchstaben \"a\" kommen im folgenden Satz vor:\n\nDer Bauer hat heute morgen ein großes Frühstück zu sich genommen.",
+        "input": "",
+        "output": "Der Buchstabe \"a\" kommt zweimal vor.",
+        "id": "aya_deu_135"
+    },
+    {
+        "instruction": "Wer steckt hinter Daft Punk?",
+        "input": "",
+        "output": "Hinter den schimmernden Chrom-Helmen der Band Daft Punk steckte das französische Duo Thomas Bangalter und Guy-Manuel de Homem-Christo.",
+        "id": "aya_deu_136"
+    },
+    {
+        "instruction": "Ist China das bevölkerungsreichste Land auf der Welt?",
+        "input": "",
+        "output": "Im Jahr 2023 lautet die Antwort noch \"Ja\". Allerdings ist es sehr wahrscheinlich, dass in den nächsten Jahren bereits Indien den Titel als bevölkerungsreichstes Land übernimmt. Gerade die Ein-Kind-Politik der 90er-Jahre in China hat das Land in einen langfristigen demographischen Wandel geworfen.",
+        "id": "aya_deu_137"
+    },
+    {
+        "instruction": "Was sind einfach umzusetzende Vorschläge, um Menschen mit Autismus das Leben am Arbeitsplatz leichter zu machen? Beantworte die Frage im Format einer Liste.",
+        "input": "",
+        "output": "Ein paar einfach umzusetzende Vorschläge, die bereits einen großen Effekt haben können, sind:\n* Kopfhörer mit Geräuschunterdrückung (Noise Cancelling Headphones).\n* Dimmbare Lichter und Arbeitsplätze mit natürlichen Lichtquellen.\n* Separate Büroräume statt Großraumbüros, da kleinere Räume sensorisch einen geringeren Einfluss aufweisen.\n* Haustiere (oder Servicehunde) im Büro erlauben.",
+        "id": "aya_deu_138"
+    },
+    {
+        "instruction": "Wie kann ich ein Ei zubereiten?",
+        "input": "",
+        "output": "Die gängisten Möglichkeiten, ein Ei zuzubereiten, sind:\n\n- Hartgekochtes Ei: Das Ei wird in einen Topf mit kochendem Wasser gelegt, und hat eine Kochdauer von 5-10 Minuten. Dabei hängt die Kochzeit von der bevorzugten Konsistenz des gekochten Eis ab.\n- Spiegelei: Etwas Öl in einer Pfanne erhitzen, dann das Ei darin aufschlagen. Solange auf mittlerer Hitze braten, bis das Eigelb fest wird.\n- Rührei: Auch hier wird dafür eine Pfanne mit etwas Öl benötigt. Im Gegensatz zum Spiegelei schlägt man das Ei allerdings vorher in eine separate Schale, um es mit etwas Milch, Salz, Pfeffer, und je nach Geschmack z.B. Petersilie zu vermischen. Die Mischung dann in die Pfanne geben, und für ein paar Minuten unter konstantem Umrühren bei mittlerer Hitze braten.\n\nBei Eiern ist grundsätzlich zu bedenken, dass der Rohverzehr von Eiern zu einer Infektion mit Salmonellen führen kann.",
+        "id": "aya_deu_139"
+    },
+    {
+        "instruction": "Wie lautet die Antwort auf diese Frage: Hat J.K. Rowling \"The Casual Vacancy\" geschrieben?",
+        "input": "",
+        "output": "Die korrekte Antwort lautet \"Ja\".",
+        "id": "aya_deu_140"
+    },
+    {
+        "instruction": "Wie lautet der lateinische name für Fuß?",
+        "input": "",
+        "output": "Die Lateinische Übersetzung von Fuß lautet \"pes\", mit dem Plural \"pedis\".",
+        "id": "aya_deu_141"
+    },
+    {
+        "instruction": "Gib mir ein paar Vorschläge für weibliche Vornamen.",
+        "input": "",
+        "output": "Beliebte Mädchennamen ändern sich über die Jahre hinweg stetig. Bisher in Deutschland beliebt sind (oder waren):\n- Maria\n- Sofie\n- Lena\n- Mia\n- Hannah",
+        "id": "aya_deu_142"
+    },
+    {
+        "instruction": "Vereinfache den folgenden Satz, indem syntaktisch komplexe Wörter mit einfacheren Worten (oder grammatikalischen Konstrukten) ersetzt werden.\nInput: Das \"Nutzergenerierte Radio\", wie die Betreiber des Internetportals ihr Konzept nennen, macht Streamingtechnologie auch für private, nicht-kommerzielle Sendungsmacher nutzbar, was sich ansonsten aufgrund hoher GEMA- bzw. GVL-Gebühren eher schwierig gestalten kann. Die anfallenden Gebühren übernimmt die Laut AG, diese behält sich im Gegenzug das Recht vor, Werbung auf den Stationen der Nutzer zu schalten. \nAntwort:",
+        "input": "",
+        "output": "Das \"Nutzergenerierte Radio\" ist ein Internetdienst. Es ermöglicht private Radiosender, die normalerweise zu teuer für viele Personen wären. Der Grund dafür sind Gebühren, die beim Abspielen eines Lieds an bestimmte Gruppen gezahlt werden müssen. Die Kosten im \"nutzergenerierten Radio\" werden stattdessen von einer Firma übernommen. Sie darf dafür Werbung auf den Radiosendern abspielen.",
+        "id": "aya_deu_143"
+    },
+    {
+        "instruction": "Wie viele Elemente gibt es im Periodensystem?",
+        "input": "",
+        "output": "Insgesamt sind bis heute 118 Elemente nachgewiesen worden, welche im Periodensystem festgehalten sind.",
+        "id": "aya_deu_144"
+    },
+    {
+        "instruction": "Zu welcher Kategorie zählt die folgenden Frage? Welche Spieler von Manchester United waren anlässlich der Euro 2020 in der englischen Nationalmannschaft?",
+        "input": "",
+        "output": "Die korrekte Kategorie lautet: \"Sport\"",
+        "id": "aya_deu_145"
+    },
+    {
+        "instruction": "Erkläre die Lorentzkraft in einfachen Worten. Worum handelt es sich dabei, und wie kann man die Richtung bestimmen?",
+        "input": "",
+        "output": "Der Zusammenhang zwischen der Bewegungsrichtung der Ladungsträger, der Richtung des Magnetfeldes und der Richtung der Kraft auf die Ladungsträger wird durch die Rechte-Hand-Regel genauer erfasst. Manchmal wird diese Regel auch als UVW-Regel (U von Ursache, V von Vermittlung, W von Wirkung) bezeichnet.\n- Der Daumen gibt die Bewegungsrichtung positiv geladener Ladungsträger an (Stromrichtung von + nach -).\n- Der Zeigefinger gibt die Richtung des Magnetfeldes von Nord- zum Südpol an.\n- Der Mittelfinger zeigt dann in Richtung der Kraft, die auf die Ladungsträger wirkt.",
+        "id": "aya_deu_146"
+    },
+    {
+        "instruction": "Aus welcher Kategorie stammt folgende Frage? War Jack Nicholson jemals in einem Film mit Dennis Hopper zu sehen?",
+        "input": "",
+        "output": "Die Kategorie ist Film.",
+        "id": "aya_deu_147"
+    },
+    {
+        "instruction": "Welche Stadt auf den Philippinen liegt geografisch in der Region Benguet und wird \"Stadt der Kiefern\" genannt?",
+        "input": "",
+        "output": "Die gesuchte Stadt trägt den Namen \"Baguio\".",
+        "id": "aya_deu_148"
+    },
+    {
+        "instruction": "Übersetze den folgenden Satz ins Deutsche:\n\n\"Where there is a will there is a way.\"",
+        "input": "",
+        "output": "Bei der Phrase handelt es sich um ein Sprichwort, welches sich auch im deutschen Sprachgebrauch findet. Die Übersetzung lautet:\n\n\"Wo ein Wille ist, da ist auch ein Weg.\"",
+        "id": "aya_deu_149"
+    },
+    {
+        "instruction": "Give me an example of trivia in this category: books\nNenne mir eine Trivia-Frage zum Thema \"Bücher\"",
+        "input": "",
+        "output": "Heiratet Bella, Protagonistin aus der Twilight-Saga, Edward in den Büchern?",
+        "id": "aya_deu_150"
+    },
+    {
+        "instruction": "Wofür kann ich Fondant verwenden?",
+        "input": "",
+        "output": "Fondant ist eine Zuckermassen, die zum Überzug von meist Torten und zum Modellieren verwendet wird. Sie wird auf Basis von Wasser und Zucker hergestellt. Fondant lässt sich gut mit Lebensmittelfarbe einfärben. \nFondant findet unter anderem in den folgenden Schritten Verwendung: \n- Überzug von Torten\n- Modellierung von Figuren, Blumen etc.\n- Herstellung von Motivtorten\n- Verzierung von Cupcakes und Muffins",
+        "id": "aya_deu_151"
+    },
+    {
+        "instruction": "Was versteht man unter Reinforcement Learning? Bitte erkläre den Begriff in einfachen Worten.",
+        "input": "",
+        "output": "Reinforcement Learning (im dt.  bestärkendes Lernen) ist eine Methode im Bereich des Maschinellen Lernens. Dabei werden Agenten gebaut, die eigenständig durch die Interaktion mit ihrer Umwelt eine Strategie erlernen. Das Lernen erfolgt durch \"Trial und Error\" und mittels (positiver oder negativer) Belohnungen als Feedback. Reinforcement Learning kann man sich anhand des folgenden Beispiels vereinfacht vorstellen: Stell dir vor, du spielst ein Computerspiel, dass du noch nicht kennst. Du probierst verschiedene Knöpfe auf der Tastatur aus. Drückst du die rechte Pfeiltaste, bekommst du einen Punkt (Belohnung). Drückst du hingegen die linke Taste, wird dir ein Punkt abgezogen. Mit jeder Interaktion lernst du, was dir Punkte einbringt und was dir keine Punkte einbringt. Ohne Hilfe von außerhalb hast du so gelernt, wie das Spiel funktioniert. Reinforcement Learning basiert auf dem gleichen Prinzip.",
+        "id": "aya_deu_152"
+    },
+    {
+        "instruction": "Wer ist in der Regel das Monster, das Prinzessin Peach in der Mario Bros. Serie stiehlt?",
+        "input": "",
+        "output": "Der Antagonist der Super Mario Bros.-Serie heißt Bowser, der König der Koopas.",
+        "id": "aya_deu_153"
+    },
+    {
+        "instruction": "Wodurch unterscheidet sich Pflanzenerde für den Balkon von regulärem Boden?",
+        "input": "",
+        "output": "Pflanzenerde ist üblicherweise mit verschiedenen Nährstoffen angereichert, die das Pflanzenwachstum in einem restriktiven Gefäß erlauben. Dadurch kostet Pflanzenerde meist etwas mehr.",
+        "id": "aya_deu_154"
+    },
+    {
+        "instruction": "Wie oft kommt der Buchstabe x in dem Wort \"Alphabet\" vor?",
+        "input": "",
+        "output": "Der Buchstabe \"x\" ist nicht im Wort \"Alphabet\" enthalten. Die korrekte Antwort ist also null.",
+        "id": "aya_deu_155"
+    },
+    {
+        "instruction": "Wie berechnet man die Division für 101 : 8.\nErkläre die Antwort in mehreren Schritten.",
+        "input": "",
+        "output": "1. Berechne den nächstgelegenen vollständigen Divisor. Dazu kann die Division mit Rest angewandt werden.\n101 : 8 = 12 Rest 5\n2. Berechne die Dezimalstellen, indem die Divison des Restes angewandt wird.\n5 : 8 = 0.625\n3. Summiere die ganzen Zahlen aus dem ersten Schritt mit den Dezimalstellen der Restrechnung.\n12 + 0.625 = 12.625",
+        "id": "aya_deu_156"
+    },
+    {
+        "instruction": "Aus welchen Elementen besteht ein Molekül Wasser?",
+        "input": "",
+        "output": "Wasserstoff und Sauerstoff",
+        "id": "aya_deu_157"
+    },
+    {
+        "instruction": "Wie groß ist das \"London Eye\" (Riesenrad in London)?",
+        "input": "",
+        "output": "Die Höhe des London Eye liegt bei 135 Metern (445 Fuß).",
+        "id": "aya_deu_158"
+    },
+    {
+        "instruction": "Welche Pflanzen können in Tundraregionen überleben?",
+        "input": "",
+        "output": "Ein paar Pflanzenarten, die trotz der harschen Bedingungen in der Tundra überleben sind z.B. arktisches Moos, Flechten, arktischer Mohn, oder die arktische Weide.",
+        "id": "aya_deu_159"
+    },
+    {
+        "instruction": "Der Archäologe sah Artefakte, die er vor langer Zeit verloren hatte, während er ein Lehrbuch las.\nWelche Gefühle löste dies beim Archäologen aus? \nWähle eine Antwort auf die obige Frage unter den folgenden Optionen aus:\n\nA: Wut\nB: Nachdenklichkeit\nC: Lerneffekt\nD: schmerzhafte Erinnerungen",
+        "input": "",
+        "output": "Die richtige Antwort ist E.",
+        "id": "aya_deu_160"
+    },
+    {
+        "instruction": "Was für ein Gegenstand verbirgt sich hinter dem Wort \"Gugg\"?",
+        "input": "",
+        "output": "\"Gugg\" stammt aus dem schwäbischen Sprachgebrauch und ist ein anderes Wort für \"Einkaufstüte\".",
+        "id": "aya_deu_161"
+    },
+    {
+        "instruction": "Wer ist Olaf Scholz?",
+        "input": "",
+        "output": "Olaf Scholz ist Bundeskanzler der Bundesrepublik Deutschland seit Dezember 2021. Er ist ein Mitglied sozialdemokratischen Partei SPD.",
+        "id": "aya_deu_162"
+    },
+    {
+        "instruction": "Beantworte die folgende Frage:\nWenn es im letzten Jahr für 128 Tage geregnet hat, und dieses Jahr 50% mehr Regentage vorausgesagt wurden, an wie vielen Tagen wird es dieses Jahr vermutlich regnen?",
+        "input": "",
+        "output": "Insofern es tatsächlich bei 50% mehr Regentagen bleibt, werden es voraussichtlich 128 * 1,5 = 192 Regentage sein.",
+        "id": "aya_deu_163"
+    },
+    {
+        "instruction": "Wann wurde Google gegründet?",
+        "input": "",
+        "output": "Google, formell die \"Google LLC\" (Limited Liability Company), wurde am 4. September 1998 von Larry Page und Sergey Brin gegründet.",
+        "id": "aya_deu_164"
+    },
+    {
+        "instruction": "Wie bekomme ich einen Abflussstopper aus dem Waschbecken, wenn der Hebel am Wasserhahn kaputt ist?",
+        "input": "",
+        "output": "Sollte der Schließmechanismus für den Abfluss im Waschbecken kaputt sein, gibt es verschiedene Möglichkeiten, den Stopper trotzdem zu entfernen. Prüfe am besten zuerst, ob sich der Mechanismus des Ablaufventils lediglich unter dem Waschbecken gelockert hat, oder anderweitig feststeckt. Wenn es sich um ein Problem am Mechanismus selbst handelt, kannst du versuchen, diesen selbst zu reparieren, um den Stopper dann wie gewohnt zu entfernen.\nAndernfalls kannst du einen handelsüblichen Plunger (Pömpel) benutzen, um den Stopper zu entfernen. Benutze den Plunger dabei genau entgegen der normalen Verwendung, indem du die Saugglocke über dem Abfluss plazierst, dann langsam nach unten drückst, und mit einer plötzlichen Bewegung einen Unterdruck erzeugst, der den Abflusstopper herausziehen sollte. Gegebenenfalls wiederholst du den Prozess einfach mehrfach, oder lässt ein bisschen Wasser im Waschbecken einfließen, damit der Effekt größer ist.",
+        "id": "aya_deu_165"
+    },
+    {
+        "instruction": "Vervollständige den folgenden Satz:\nTennis ist ein",
+        "input": "",
+        "output": "Ballsport.",
+        "id": "aya_deu_166"
+    },
+    {
+        "instruction": "Wo finde ich meine Steuernummer?",
+        "input": "",
+        "output": "Für Personen in Deutschland gibt es mehrere Möglichkeiten, ihre Steuernummer herauszufinden. Die elfstellige Steueridentifikationsnummer, auch Steuer-ID genannt, findet sich ebenso auf dem Steuerbescheid auf der ersten Seite ganz oben links, oder auch auf einer Lohnsteuerbescheinigung.",
+        "id": "aya_deu_167"
+    },
+    {
+        "instruction": "Welches ist der kürzeste Harry-Potter-Film?",
+        "input": "",
+        "output": "Harry Potter und die Heiligtümer des Todes – Teil 2 ist der kürzeste Film in der Harry-Potter-Saga, mit einer Spielzeit von 130 Minuten.",
+        "id": "aya_deu_168"
+    },
+    {
+        "instruction": "Für welche Videospiel-Serie ist das französische Entwickler-Studio Nadeo bekannt?",
+        "input": "",
+        "output": "Nadeo ist hauptverantwortlich für die \"Trackmania\"-Serie, welche ihr Debut-Spiel im Jahr 2003 veröffentlichte.",
+        "id": "aya_deu_169"
+    },
+    {
+        "instruction": "Schlage mir bitte fünf verschiedene Ideen vor, wie ich mich innerhalb von etwa einer Stunde entspannen kann",
+        "input": "",
+        "output": "Hier sind ein paar mögliche Vorschläge:\n1. Unternehmen Sie einen Spaziergang. Wenn möglich, versuchen Sie, in der Nähe von Grünanlagen oder anderen verkehrsberuhigten Orten vorbeizulaufen, um die Entspannung zu maximieren.\n2. Machen Sie ein kurzes Nickerchen. Sollten Sie beim Einschlafen untertags Probleme haben, kann eine geführte Meditation oder autogenes Training eine entspannende Alternative sein.\n3. Lesen Sie ein Buch. Wenn Sie keine Lesemöglichkeiten zu Hause haben, vermeiden Sie allerdings, eine Internetseite zum Lesen zu benutzen, da dies die Augen belasten kann.\n4. Rufen Sie Freunde oder Familie an, wenn Sie schon länger nicht mehr mit ihnen gesprochen haben.\n5. Nehmen Sie sich Zeit für ein anderes Ihrer Hobbies. Oftmals ist es möglich, auch nur für eine Stunde etwas zu finden, was sich von zu Hause unternehmen lässt.",
+        "id": "aya_deu_170"
+    },
+    {
+        "instruction": "Seit wann gibt es das Informatikstudium?",
+        "input": "",
+        "output": "Wenn man sich auf offizielle Studiengänge an deutschen Universitäten beschränkt, führten sowohl das KIT in Karlsruhe, als auch die TU Dresden (damals der DDR zugehörig) im Jahr 1969 einen offiziellen Informatikstudiengang ein.\nBereits zuvor gab es bereits entsprechende Vertiefungsvorlesungen im Bereich der Mathematik an verschiedenen Universitäten, z.B. der TH München (heute TU München) bzw. der TH Darmstadt (heute TU Darmstadt).",
+        "id": "aya_deu_171"
+    },
+    {
+        "instruction": "Was ist Ganache?",
+        "input": "",
+        "output": "Ganache ist eine Schokoladencreme, die für Tortenüberzug, Pralinen- und Tortenfüllung oder als Untergrund für Fondant oder Marzipan verwendet wird. Sie wird auf Basis von Schokolade und Sahne hergestellt und kann mit Früchten, Nüssen, Kaffee oder ähnlichen Lebensmitteln verfeinert werden. Je nach Schokoladensorte und Verwendung muss die Creme im richtigen Verhältnis gemischt werden.",
+        "id": "aya_deu_172"
+    },
+    {
+        "instruction": "Es gibt die Kategorien \"Sport\", \"Entertainment\", \"Wissenschaft\" und \"Politik\". Welcher Kategorie lässt sich der folgende Absatz am wahrscheinlichsten zuordnen?\n\"Nach einer kurzen Orientierungsphase, in der die Gäste die erste Halbchance nach einem Eckball hatten, übernahm Leverkusen in der ausverkauften heimischen Arena das Kommando. Sehr ballsicher und gegen den Ball stark organisiert gab Bayer 04 den Ton an. Kölns Abwehr musste gleich zwei Mal in höchster Not gegen Viktor Boniface im Strafraum blocken (14., 16.). Kurz darauf verzog Florian Wirtz einen Schuss aus 20 Metern knapp (19.).\"",
+        "input": "",
+        "output": "Die richtige Kategorie ist \"Sport\".",
+        "id": "aya_deu_173"
+    },
+    {
+        "instruction": "Was ist das Wissenschaftszeitvertragsgesetz?",
+        "input": "",
+        "output": "Das Wissenschaftszeitvertragsgesetz ist ein Gesetz, das regelt, wie wissenschaftliches und künstlerisches Personal an staatlichen Hochschulen und Forschungseinrichtungen zeitlich befristet werden kann, welche Voraussetzungen dafür erfüllt sein müssen und wo die Grenzen der Befristung liegen. Das Gesetz soll dafür sorgen, dass niemand zu lange eine Stelle besetzt und dadurch für eine Mitarbeiterfluktuation und Innovation sorgen. Typischerweise spricht man im Zusammenhang mit Doktoranden über das Wissenschaftszeitvertragsgesetz, die höchstens 6 Jahre lang an einer Universität angestellt sein dürfen. Das Wissenschaftszeitvertragsgesetz ist sehr umstritten.",
+        "id": "aya_deu_174"
+    },
+    {
+        "instruction": "Wie heißen die Zwillingsschwestern von Marge Simpson aus der TV-Serie \"Die Simpsons\"?",
+        "input": "",
+        "output": "Die Namen der Schwestern sind Patty und Selma.",
+        "id": "aya_deu_175"
+    },
+    {
+        "instruction": "Wie heißt der erste Internetbrowser?",
+        "input": "",
+        "output": "Der allererste Webbrowser war die sogenannte \"WorldWideWeb\"-Applikation, geschrieben von Internet-Urvater Tim Berners Lee. Der erste kommerziell erfolgreiche Browser ist vermutlich Mosaic (später Netscape), erschaffen von Marc Andreessen.",
+        "id": "aya_deu_176"
+    },
+    {
+        "instruction": "Wo wurde die Autorin, die „Harry Potter“ geschrieben hat, geboren?",
+        "input": "",
+        "output": "J.K. Rowling, Autorin der \"Harry-Potter\"-Serie, wurde in Yate im Vereinigten Königrech geboren.",
+        "id": "aya_deu_177"
+    },
+    {
+        "instruction": "Wir spielen Jeopardy. Diese Frage stammt aus der Kategorie \"Musik & Persönlichkeiten\". Wie lautet die Frage zur folgenden Antwort?\n\n\"Die Tochter des Komponisten Harry Freedman und der Sängerin Mary Morrison studierte von 1977 bis 1981 Klarinette an der University of Toronto. Daneben beteiligte sie sich an der Academy of Woodwinds am Banff Centre for the Arts. Nach dem Studium nahm sie vertiefenden Unterricht bei Pauline Oliveros (1981), Joaquim Valdepenas (1983–84) und bei Harry Sparnaay am Sweelinck Conservatorium in Amsterdam.\"",
+        "input": "",
+        "output": "Wer ist Lori Freedman?",
+        "id": "aya_deu_178"
+    },
+    {
+        "instruction": "Welche verschiedenen Beläge gibt es für Tennisplätze?",
+        "input": "",
+        "output": "Es gibt verschiedene Varianten von Tennisplätzen:\n- Hartplatz: Diese Variante ist besonders für schnelle Spiele geeignet, da der harte Untergrund den Ball kaum bremst. Die meisten Turniere der ATP- und WTA-Tour finden auf Hartplätzen statt.\n- Sandplatz: Meist unverkennbar durch den roten Belag gehört der Sandplatz zu den am häufigsten bespielten Plätzen. Der Sand verlangsamt den Ball beim Aufprall, was in der Regel zu längeren Ballwechseln führt. Die French Open werden auf Sandplätzen ausgetragen.\n- Rasenplatz: Besonders in der Sommerzeit sind Rasenplätze traditionell sehr beliebt. Die genaue Spielweise hängt vom Rasen ab, Rasen wird aber generell als schwierigster Grund gehandelt. Gerade durch das \"Flutschen\" des Balles auf der Oberfläche beschleunigt sich der Ball nach dem Aufschlag. Wimbledon ist das wohl bekannteste Turnier mit Rasenfläche.\n- Hallenplatz: Hallen eignen sich als ideale Ausweichfläche für die Wintersaison, sind aber generell nicht in Turnieren vorhanden. Ähnlich zum Asphaltplatz sind in der Halle das Absprungverhalten sehr aggressiv, was ein schnelles Spiel zur Folge hat.",
+        "id": "aya_deu_179"
+    },
+    {
+        "instruction": "Es gibt eine Wasserquelle und zwei Kanister. Einer der Kanister hat ein Fassungsvermögen von genau drei Litern, in den anderen Kanister passen fünf Liter. Wie kann mit möglichst wenig Schritten durch geschicktes Umschütten 4 Liter Wasser abmessen.",
+        "input": "",
+        "output": "Geht man davon aus, dass jedes Umschütten einen Schritt darstellt ist die folgende Methode die schnellstmögliche. \n1.  Zunächst füllt man den 5-Liter Eimer voll. \n2. Dann kippt man 3 Liter in den 3-Liter Eimer. Im 5-Liter Eimer sind dann 2 Liter. \n3. Den Wasserinhalt des 3-Liter Eimers kippt man nun wieder zurück in die Wasserquelle. \n4. Nun kippt man die 2 Liter im 5-Liter Eimer in den 3-Liter Eimer. Der 5-Liter Eimer ist nun leer und der 3-Liter Eimer enthält 2 Liter. \n5. Füllt man nun den 5-Liter Eimer mit der Wasserquelle wieder auf, hat man im 5-Liter Eimer 5 Liter. \n6. Als letzten Schritt füllt man den 3-Liter Eimer auf mit dem 5-Liter Eimer. Da im 3-Liter Eimer 2 Liter enthalten sind, bleiben im 5-Liter Eimer nun 4 Liter übrig. \n\nEine andere, ebenfalls effiziente Methode: \n1. Zunächst befüllt man den 3-Liter Eimer.\n2. Dann kippt man den Inhalt anschließend in den 5-Liter Eimer. Im 5-Liter Eimer sind dann 3 Liter. \n3. In den leeren 3-Liter Eimer kippt man nun nochmals 3 Liter. \n4. Dann füllt man den 5-Liter Eimer damit voll. Im 3-Liter Eimer ist dann 1 Liter. \n5. Den Wasserinhalt im 5-Liter Eimer kippt man nun zurück in die Wasserquelle\n6. Nun kippt man den einen Liter des 3-Liter Eimers in den 5-Liter Eimer. \n7. Den 3-Liter Eimer füllt man nun erneut.\n8. Den Inhalt schüttet man dann in den 5-Liter Eimer, der bereits einen Liter enthält. Es befinden sich nun 4 Liter im 5-Liter Eimer.",
+        "id": "aya_deu_180"
+    },
+    {
+        "instruction": "Zu welcher Kategorie gehört die folgende Frage? Wähle aus den folgenden Kategorien aus: \"Geschichte\", \"Bücher\", \"Film\", \"Wissenschaft\"\nWelcher Krieg war länger, der Irakkrieg oder der zweite Weltkrieg?",
+        "input": "",
+        "output": "Die korrekte Kategorie lautet \"Geschichte\".",
+        "id": "aya_deu_181"
+    },
+    {
+        "instruction": "Aus welchem Land kommt der Hamburger?",
+        "input": "",
+        "output": "Der genaue Ursprung des Hamburgers ist nicht überliefert. Mehrere konkurrierende Thesen zum genauen Ursprung des Hamburgers sind derzeit in der Diskussion. Ein gemeinsamer Nenner ist oftmals ein möglicher Ursprung von deutschen Immigranten in den USA. Andere Hypothesen leiten den Hamburger aber auch von dem \"Hamburger Steak\" (ein Steak aus Hackfleisch) ab, welches bereits Mitte des 19. Jahrhunderts in Kochbüchern erwähnt wird.",
+        "id": "aya_deu_182"
+    },
+    {
+        "instruction": "Welche Tiere kann man auf Safari sehen?",
+        "input": "",
+        "output": "Tierspezies sind stark regional unterschiedlich. Häufig sind auf Safaris daher unterschiedliche Arten zu sehen, wobei zu den häufigsten Sehenswürdigkeiten Elefanten, Löwen, Giraffen, Leoparden oder verschiedene Wildvögel zählen.",
+        "id": "aya_deu_183"
+    },
+    {
+        "instruction": "Wer ist Olaf Scholz?",
+        "input": "",
+        "output": "Olaf Scholz ist Bundeskanzler der Bundesrepublik Deutschland seit Dezember 2021. Er ist Mitglieder sozialdemokratischen Partei SPD.",
+        "id": "aya_deu_184"
+    },
+    {
+        "instruction": "Welches Land war im Zweiten Weltkrieg Teil der Alliierten und bestand aus 15 Republiken?",
+        "input": "",
+        "output": "Die Sowjetunion war Teil der Alliierten und bestand aus 15 Republiken. Dazu gehörten unter anderem die Russische SFSR, die Ukrainische SSR, die Belarussische SSR, und die Usbekische SSR.",
+        "id": "aya_deu_185"
+    },
+    {
+        "instruction": "Wie kann ich als faule Person fitter werden?",
+        "input": "",
+        "output": "Es gibt verschieden Wege, um die eigene Fitness zu verbessern. Ein einfacher Weg, um anzufangen, sind regelmäßige Spaziergänge. Die Bewegung allein hilft bereits, eine Grundfitness aufzubauen. Alternativ gibt es auch bestimmte Sportarten, die auch für Anfänger gut geignet sind. Schwimmen z.B. hat eine sehr geringe Auslastung auf die Gelenke. Für den gezielten Muskelaufbau sind zu Beginn auch Körper-Übungen vollkommen ausreichend, bei denen das eigene Körpergewicht als Trainingsgewicht fungiert.",
+        "id": "aya_deu_186"
+    },
+    {
+        "instruction": "Vervollständige bitte den nachfolgenden Satz:\nPrompt: Wer anderen eine Grube gräbt,",
+        "input": "",
+        "output": "fällt selbst hinen.",
+        "id": "aya_deu_187"
+    },
+    {
+        "instruction": "Was versteht man unter Reinforcement Learning? Bitte erkläre den Begriff in einfachen Worten.",
+        "input": "",
+        "output": "Reinforcement Learning (im dt.  bestärkendes Lernen) ist eine Methode im \"Machine Learning\" Bereich. Dabei werden Agenten (\"agents\") gebaut, die eigenständig durch die Interaktion mit ihrer Umwelt eine Strategie erlernen. Das Lernen erfolgt durch \"Trial und Error\" und mittels (positiver oder negativer) Belohnungen als Feedback. \"Reinforcement Learning\" kann man sich anhand des folgenden Beispiels vereinfacht vorstellen: Stell dir vor, du spielst ein Computerspiel, dass du noch nicht kennst (environment). Du probierst verschiedene Knöpfe auf der Tastatur aus (Interaktion). Drückst du die rechte Pfeiltaste, bekommst du einen Punkt (Belohnung). Drückst du hingegen die linke Taste, wird dir ein Punkt abgezogen. Mit jeder Interaktion lernst du, was dir Punkte einbringt und was dir keine Punkte einbringt. Ohne die Hilfe von außerhalb, hast du so gelernt, wie das Spiel funktioniert. Dieses Prinzip wird auf Reinforcement Learning angewandt.",
+        "id": "aya_deu_188"
+    },
+    {
+        "instruction": "Vervollständige bitte den nachfolgenden Satz:\nWer anderen eine Grube gräbt,",
+        "input": "",
+        "output": "fällt selbst hinein.",
+        "id": "aya_deu_189"
+    },
+    {
+        "instruction": "Was ist der Unterschied zwischen Stalagmiten und Stalaktiten?",
+        "input": "",
+        "output": "Während Stalaktiten von der Decke hängende Tropfsteine sind, wachsen Stalagmiten vom Boden empor.",
+        "id": "aya_deu_190"
+    },
+    {
+        "instruction": "Was ist Allerheiligen?",
+        "input": "",
+        "output": "Allerheiligen ist ein katholischer Feiertag am 01. November, der in Deutschland regional begangen wird. Im Wortsinne ist es ein Feiertag zu Ehren der Heiligen. Praktisch \"besuchen\" Menschen ihre verstorbenen Angehörigen auf dem Friedhof und gedenken ihrer. Umstritten ist das offizielle Tanzverbot, das an diesem Feiertag gilt.",
+        "id": "aya_deu_191"
+    },
+    {
+        "instruction": "Seit wann gibt es das Informatikstudium?",
+        "input": "",
+        "output": "Das Informatikstudium als eigenständiger Studiengang hat sich im Laufe des 20. Jahrhunderts entwickelt. Der genaue Zeitpunkt kann je nach Land und Universität variieren. In den 1950er und 1960er Jahren begannen jedoch einige Universitäten, spezielle Programme oder Studiengänge für Informatik anzubieten.\n\nEin wichtiger Meilenstein war beispielsweise die Einführung des ersten Informatikstudiengangs an der Purdue University in den USA im Jahr 1962. In den folgenden Jahren verbreitete sich das Informatikstudium weltweit, insbesondere mit dem Aufkommen von Computertechnologien und der wachsenden Bedeutung der Informationstechnologie in verschiedenen Bereichen.",
+        "id": "aya_deu_192"
+    },
+    {
+        "instruction": "Um welches wichtige Event geht es im folgenden Absatz?\nAbsatz: Die Pastorate, das Gemeindehaus und ein großer Teil der Außenanlagen wurden während der Bombardierung Hamburgs im Zweiten Weltkrieg zerstört. Nur die Fassade des Hauptpastorates, die Mauer und die Treppe zum Krayenkamp blieben teilweise erhalten.",
+        "input": "",
+        "output": "Der Paragraph handelt von der Bombardierung Hamburgs im Zweiten Weltkrieg, die große Teile bestimmter Häuser zerstörte.",
+        "id": "aya_deu_193"
+    },
+    {
+        "instruction": "Verfasse eine Anleitung in formaler Sprache, die erklärt, wie man eine Erweiterung (\"Add-on\") im Firefox-Browser hinzufügt.",
+        "input": "",
+        "output": "Firefox: Add-ons (Erweiterungen) installieren\n\nJe nachdem, welchen Browser Sie als Standard verwenden, unterscheidet sich der Ablauf, ein Add-on zu installieren. Wenn Sie Mozilla Firefox nutzen, gehen Sie für die Installation wie folgt vor:\n\nKlicken Sie in Firefox oben rechts auf das Burger-Menü (☰) und wählen Sie den Menüpunkt „Add-ons“ aus, um in die Add-on-Verwaltung zu gelangen. \nTipp: Über die Tastenkombination Strg + Shift + A gelangen Sie direkt in die Add-on-Verwaltung, von der aus Sie Firefox-Add-ons installieren. Arbeiten Sie mit einem Mac, drücken Sie statt der Strg- die Command-Taste.\n\nÜber die Suchmaske können Sie nach dem gewünschten Add-on suchen. Anschließend erhalten Sie eine Suchergebnisliste. Klicken Sie auf das gewünschte Add-on, um in die Detailansicht zu gelangen. Über den Button „+ Zu Firefox hinzufügen“ können Sie das Firefox-Add-on installieren.\n\nZum Schluss bestätigen Sie die Installation, indem Sie im Pop-up auf „Hinzufügen“ klicken.",
+        "id": "aya_deu_194"
+    },
+    {
+        "instruction": "Kannst Du mir ein schnelles Grundrezept für Pfannkuchen empfehlen?",
+        "input": "",
+        "output": "Für ungefähr sieben Pfannkuchen benötigst Du 2 Eier, 200ml Milch, eine Prise Zucker und Salz, 200g Mehl, 60ml Mineralwasser und etwas Speiseöl zum Ausbacken. Um den 'Teig herzustellen, rührst Du einfach alle Zutaten, mit Ausnahme des Speiseöls natürlich, zusammen.\nDann kannst Du den fertigen Teig  mit einer Schöpfkelle in die eingeölte Pfanne geben und die Pfannkuchen backen.",
+        "id": "aya_deu_195"
+    },
+    {
+        "instruction": "Welcher Kategorie kann die folgende Frage zugeordnet werden: Wer ist älter, Martin Scorsese oder David Fincher?",
+        "input": "",
+        "output": "Die Frage kann der Kategorie \"Film & Fernsehen\" zugeordnet werden.",
+        "id": "aya_deu_196"
+    },
+    {
+        "instruction": "Wer war der erste afroamerikanische Präsident der Vereinigten Staaten von Amerika?",
+        "input": "",
+        "output": "Der erste US-Präisdent afroamerikanischer Abstammung war Barack Obama, der 2008 die Präsidentschaftswahl gewann.",
+        "id": "aya_deu_197"
+    },
+    {
+        "instruction": "Nunmehr hält er Rückblick auf die zwischenzeitliche Entwicklung, wobei er sich selbst dabei gerne in Pose setzt. Highlight ist diesmal sein Erfolg, bei der Klimakonferenz in Paris 2015 das Land Indien zum Einlenken bewegt zu haben. Eine Rolle spielte dabei auch das kalifornische Unternehmen SolarCit. Minutiös wird dargestellt, wie Al Gore mit einigen international maßgebenden Politikern persönlich verhandelt. Der Film zeigt Katastrophenszenarien aus den USA, wo der neue Präsident Donald Trump das mühsam verhandelte Klimaschutzabkommen wieder aufkündigen will. Al Gore, der außerdem 2007 den Friedensnobelpreis erhielt, kritisiert aber auch das politische System seines Landes.\n\nVerfasse eine passende Überschrift für den vorangehenden Artikel.",
+        "input": "",
+        "output": "Ein passender Titel für den Artikel wäre \"Neuer Film von Al Gore in den deutschen Kinos\".",
+        "id": "aya_deu_198"
+    },
+    {
+        "instruction": "Woher stammt das Gericht \"Kaiserschmarrn\"? Antworte nur mit dem jeweiligen Antwort-Buchstaben und der Antwort\n\nA. Deutschland\nB. Belgien\nC. Österreich\nD. Schweiz\nE. Italien",
+        "input": "",
+        "output": "C. Österreich",
+        "id": "aya_deu_199"
+    },
+    {
+        "instruction": "Seit wann gibt es Spotify?",
+        "input": "",
+        "output": "Die gleichnamige Firma hinter dem popularen Musik-Streamingdienst wurde 2006 in Stockholm gegründet. Der Service selbst bot sein kostenloses Tier erstmals im Jahr 2010 im Vereinigten Königreich an.",
+        "id": "aya_deu_200"
+    },
+    {
+        "instruction": "Gib mir ein Trivia-Beispiel in der Kategorie: Videospiele",
+        "input": "",
+        "output": "Frage: Welches war das erste Final Fantasy-Spiel, das nicht ausschließlich offline gespielt wurde? \nAntwort: Final Fantasy XI Online",
+        "id": "aya_deu_201"
+    },
+    {
+        "instruction": "Zu welcher Kategorie gehört die folgende Frage? \"Sport\", \"Musik\", oder \"Film\": Gibt es in To Kill a Mockingbird eine Figur namens Scout?.",
+        "input": "",
+        "output": "Die korrekte Kategorie ist \"Film\".",
+        "id": "aya_deu_202"
+    },
+    {
+        "instruction": "Verfasse mir bitte einen Zeitungsartikel zum Thema der bayrischen Landtagswahl im Oktober 2023.\nDer Artikel sollte die folgenden Themen ansprechen:\n- Die Auswirkung der Landtagswahl auf das politische Geschehen auf Bundesebene in Deutschland.\n- Die zunehmende Briefwählerschaft\n- Mögliche Verluste für die Partei \"CSU\".",
+        "input": "",
+        "output": "Bayern wählt: Ein Rekord und einige Fragezeichen\n\n15 Parteien, 1.811 Kandidaten, 9,4 Millionen Stimmberechtigte: Bei der bayerischen Landtagswahl fällt im Oktober die Entscheidung über die künftigen Kräfteverhältnisse im Freistaat. Ein Rekord zeichnet sich ab, mehrere Fragen versprechen Spannung.\n\n\"Richtungsentscheidung\" für Bayern, ein \"Riesen-Signal\" auch für den Bund - wenn bayerische Spitzenpolitiker in den vergangenen Wochen die Bedeutung der Landtagswahl betonen wollten, sparten sie nicht mit großen Worten. 9,4 Millionen Bürgerinnen und Bürger in Bayern sind aufgerufen, über die Zusammensetzung des Landesparlaments zu entscheiden. Gleichzeitig werden die sieben Bezirkstage im Freistaat gewählt.\n\nAuch wenn Umfragen zuletzt eine Mehrheit für die bisherige Regierungskoalition aus CSU und Freien Wählern sahen, verspricht die Landtagswahl Spannung. Wie verändern sich die Kräfteverhältnisse? Wie viele Parteien schaffen es ins Maximilianeum? Wer wird zweitstärkste Partei? Welche Direktkandidaten können sich in den besonders umkämpften Stimmkreisen durchsetzen?\n\nDas Meinungsforschungsinstitut Infratest dimap verweist darauf, dass sich viele Bürger erst kurzfristig vor einer Wahl festlegen. Die letzte Phase des Wahlkampfs \"mit der gezielten Ansprache von unentschlossenen und taktischen Wählern\" habe eine große Bedeutung. Beim letzten BayernTrend vor der Wahl Ende September war rund ein Drittel der Wahlberechtigten noch unentschlossen.\n\n15 Parteien treten an\nInsgesamt treten bei der Landtagswahl dieses Mal 15 Parteien mit über 1.800 Bewerberinnen und Bewerbern an. Zehn der Parteien sind in allen bayerischen Regierungsbezirken auf einem Stimmzettel zu finden. Die Wählerinnen und Wähler entscheiden über 180 Abgeordnetensitze, wobei es wieder einige Parlamentarier mehr werden könnten: In der zu Ende gehenden Legislaturperiode saßen aufgrund von Überhang- und Ausgleichsmandaten 205 Abgeordnete im Maximilianeum.\n\nErste Hochrechnungen werde ab 18 Uhr erwartet, erste vorläufige Ergebnisse aus den 91 Stimmkreisen könnte es laut Landeswahlleiter etwa ab 20 Uhr geben. Das vorläufige bayernweite Resultat dürfte erst nach Mitternacht vorliegen.\n\nBriefwahlrekord zeichnet sich ab\nBayern wählt - aber nicht erst heute, sondern im Grunde schon seit gut einem Monat: Wer lieber in Ruhe daheim seine Kreuzchen machen wollte, konnte in den vergangenen Wochen Briefwahlunterlagen beantragen. Nach Angaben des Landeswahlleiters hatten sich schon vor zehn Tagen fast 38 Prozent der Stimmberechtigten Wahlscheine mit Briefwahlunterlagen ausstellen lassen - deutlich mehr als zum gleichen Zeitpunkt vor der Landtagswahl 2018 (29,5 Prozent). Damit zeichnet sich ein Briefwahlrekord bei einer bayerischen Landtagswahl ab.\n\nLaut einer ersten Schätzung liegt die Gesamtwahlbeteiligung bis 14 Uhr bei rund 60 Prozent. Bis dahin hatten rund 35,4 Prozent der Stimmberechtigten ihre Stimme in einem Wahllokal abgegeben. Dieser Anteil bezieht sich auf diejenigen Stimmberechtigten, die keinen Wahlschein beantragt haben und damit ausschließlich per Urnenwahl teilnehmen können. Briefwähler sind in der Grundgesamtheit nicht enthalten.\nBei den bis 14:00 Uhr befragten ausgewählten Stimmbezirken haben 41 Prozent der Stimmberechtigten einen Wahlschein beantragt. Nach den Erfahrungen der letzten Landtags- und Bundestagswahlen haben sich von den Stimmberechtigten mit Wahlschein rund 95 Prozent für die Briefwahl entschieden.\n\nCSU: Besser oder schlechter als 2018?\nDie CSU lag vor zehn Tagen im BayernTrend der ARD bei 36 Prozent. CSU-Chef und Ministerpräsident Markus Söder lehnte in den vergangenen Monaten \"Prozent-Diskussionen\" stets ab, als Messlatte für ihn sehen viele aber das Wahlergebnis von 2018. Damals mussten die Christsozialen mit 37,2 Prozent ihr schlechtestes Landtagswahl-Resultat seit 1950 hinnehmen. Ob die CSU gegenüber 2018 ein Plus oder Minus verzeichnet, könnte sich nicht nur auf Söders Autorität in seiner Partei auswirken, sondern ist auch mitentscheidend für das Kräfteverhältnis in der nächsten Regierungskoalition.\n\nZwar würden Grüne, SPD und FDP jeweils gern die Freien Wähler als Juniorpartner der CSU ablösen, der Ministerpräsident hat sich aber schon vor Monaten auf eine Fortsetzung von Schwarz-Orange festgelegt. Die Freien Wähler kamen Ende September im BayernTrend auf 16 Prozent - bei der Landtagswahl 2018 hatten sie 11,6 Prozent erhalten. FW-Chef Hubert Aiwanger ließ angesichts des Umfragehochs bereits durchblicken, dass seine Partei gern ein viertes Ministerium hätte.",
+        "id": "aya_deu_203"
+    },
+    {
+        "instruction": "Gib mir die Zusammenfassung des Textes.\n\nDzhokhar Tsarnaevs eigene Worte können entscheiden, ob er lebt oder stirbt, auch wenn er bei seinem Prozess nie ein Wort spricht. Der zugegebene Boston-Marathon-Bomber hat in Stille gesessen, während Menschen, die Gliedmaßen verloren haben, schluchzten oder ihn vom Zeugenstand aus anstarrten. Er sackte sich in seinem Stuhl nieder, während die Geschworenen Videos von ihm sahen, sowohl vor als auch nach der Explosion von zwei mit Nägeln gefüllten Druckkochtopfbomben, die drei Menschen töteten, 17 Gliedmaßen forderten und mehr als 260 andere verletzten. Er sagte kein Wort, als seine Tweets und Worte, die er auf die Seite eines Vergnügungsbootes gekritzelt hatte, auf einer großen Leinwand erschienen und vor Gericht zitiert wurden. Die Frage ist: War Tsarnaev ein Terrorist, der die Vereinigten Staaten für eine Politik bestrafen wollte, von der er glaubte, dass sie den Muslimen schaden würde? Oder war er ein dummer Stoner, der einfach dem Beispiel seines älteren, radikaleren Bruders folgte? Die Verteidigung versuchte, Tsarnaev als verwirrten College-Jungen darzustellen, der wie unzählige andere Comedy Central schaut und unhöfliche Witze macht. \"Ich will ein oder zwei Frauen studieren\", postete er auf seinem Twitter-Account als @J_tsar. Er scherzt darüber, dass er keine Werbespots mit dem Trix-Kaninchen sieht, und über \"Walbeobachtung\" vor einem Fast-Food-Restaurant von McDonald's. Miriam Conrad, ein Mitglied seines Verteidigungsteams, versuchte am Dienstag, die Tweets, von denen die Regierung behauptet, dass sie ihn als angehenden Dschihadisten zeigen, die sich nach Märtyrertum und einem freien Durchgang ins Paradies sehnen, mit einer freundlicheren Darstellung zu versehen. Sein Bruder war tot und die Polizei wusste, wer er war. Sie suchten in Watertown nach Tsarnaev, als er unter eine Plane rutschte und an Bord der Slip Away II kletterte, einem Fischerboot, das im Garten von Watertown im Trockendock lag. Er versteckte sich stundenlang, bevor er entdeckt wurde. Blutend nahm er einen Bleistift und schrieb, was der stellvertretende Staatsanwalt William Weinreb sein \"Manifest\" nannte. Tsarnaev schrieb, er sei eifersüchtig darauf, dass sein Bruder Tamerlan das Paradies erreicht habe, indem er wie ein heiliger Krieger gestorben sei; er sei in der Nacht zuvor bei einer Schießerei mit der Polizei getötet worden. Die Anklage gegen ihn besagt, dass Tsarnaev beim Tod seines Bruders geholfen hat, indem er ihn überfahren und geschleift hat...",
+        "input": "",
+        "output": "Dzhokhar Tsarnaevs steht wegen dem Bombenanschlag beim Boston Marathon vor Gericht. Es wird darüber diskutiert, welche Motivation hinter seinem Attentat steht, wobei spekuliert wird, dass sein Bruder, der kurz zuvor von der Polizei erschossen wurde, eine Rolle spielen könnte.",
+        "id": "aya_deu_204"
+    },
+    {
+        "instruction": "Wie funktioniert ein progressives Steuersystem?",
+        "input": "",
+        "output": "Ein progressives Steuersystem beschreibt eine Steuer, bei der höhere Einkommen mit einem höheren Einkommensteuersatz besteuert werden. Ein hohes Einkommen unterliegt damit einem höheren Einkommensteuersatz als ein niedriges Einkommen. Mit dem progressiven Steuersatz soll die individuelle Leistungsfähigkeit des Steuerpflichtigen berücksichtigt werden.\nWichtig ist dabei, dass es bei progressiven Systemen niemals zu einer Reduktion des Nettoeinkommens (nach Steuerabzügen) kommt, wenn mehr verdient wird. Hierbei werden die höheren Steuersätze lediglich auf das *weitere* Einkommen angewandt.\nEin Beispiel:\nWenn bis 10.000€ 10% Steuer fällig werden, und für jeden weiteren verdienten Euro 20% Steuer fällig werden, berechnet sich die Steuer für ein Einkommen von 25.000€ wie folgt:\n\nFür die ersten 10.000€ sind 10.000 * 10% = 1.000€ Steuern fällg.\nFür die verbleibenden 25.000 - 10.000 = 15.000€ sind dann noch 15.000 * 20% = 3.000€ Steuern fällig.\nInsgesamt sind also 4.000€ Steuern auf das gesamte Einkommen fällig.\n\nViele Menschen begehen den Fehler und nehmen an, dass bei progressiven Steuern die Steuer auf das gesamte Einkommen angewandt wird. Im obigen Beispiel wären nach dieser Logik also 25.000€ * 20% = 5.000€ Steuern fällig, was allerdings falsch ist.",
+        "id": "aya_deu_205"
+    },
+    {
+        "instruction": "Schlage mir bitte fünf verschiedene Ideen vor, wie ich mich innerhalb von etwa einer Stunde entspannen kann.",
+        "input": "",
+        "output": "Hier sind ein paar mögliche Vorschläge:\n1. Unternehmen Sie einen Spaziergang. Wenn möglich versuchen Sie in der Nähe von Grünanlagen oder anderen verkehrsberuhigten Orten vorbeizulaufen.\n2. Machen Sie ein kurzes Nickerchen. Sollten Sie beim Einschlafen Probleme haben, kann eine geführte Meditation oder autogenes Training eine entspannende Alternative sein.\n3. Lesen Sie ein Buch. Vermeiden Sie es allerdings auf einem Display zu Lesen, da dies möglicherweise für die Augen belastend ist. \n4. Rufen Sie Freunde oder Familie. \n5. Nehmen Sie sich Zeit für eines Ihrer Hobbies. Oftmals ist es möglich, auch nur für eine Stunde etwas zu finden, was sich gut unternehmen lässt.",
+        "id": "aya_deu_206"
+    },
+    {
+        "instruction": "Wann wurde der Film \"Leo: Bloody Sweet\" veröffentlicht und wer sind die Hauptakteure?",
+        "input": "",
+        "output": "Der tamilischsprachige Film Leo: Bloody Sweet (abgekürzt Leo) wurde 2023 von dem Regisseur Lokesh Kanagaraj veröffentlicht. Die Hauptrollen spielen Joseph Vijay Chandrasekhar (bekannt unter dem Namen Vijay) als Parthiban/Leo Das, Sanjay Balraj Dutt als Antony Das, Srinivasa Sarja (bekannt unter dem Namen Arjun) als Harold Das und Trisha Krishnan als Sathya.",
+        "id": "aya_deu_207"
+    },
+    {
+        "instruction": "John hat den Hamburger nicht gerne gegessen.  Was hat er gefühlt? \nWähle die Antwort aus den folgenden Optionen aus, und antworte ausschließlich mit der korrekten Wahl.\n\nA: genießen Sie\nB: Zufriedenheit\nC: Übelkeit\nD: Tod\nE: traurig",
+        "input": "",
+        "output": "C",
+        "id": "aya_deu_208"
+    },
+    {
+        "instruction": "Wie lautet die korrekte Frage zur folgenden Antwort: \"Eine Steuer, die auf die Übertragung des \"steuerpflichtigen Vermögens\" einer verstorbenen Person erhoben wird, unabhängig davon, ob ein solches Vermögen durch einen Willen übertragen wird, gemäß den staatlichen Gesetzen über intestacy oder anderweitig als ein Vorfall des Todes des Eigentümers, wie eine Übertragung von Eigentum aus einem Vermächtnis oder Trust, oder die Zahlung bestimmter Lebensversicherungsleistungen oder Finanzkonto Summen an Begünstigte.\"",
+        "input": "",
+        "output": "\"Was ist Erbschaftssteuer in den USA?\"",
+        "id": "aya_deu_209"
+    },
+    {
+        "instruction": "Woher kommt AC/DC?",
+        "input": "",
+        "output": "Die Band AC/DC wurde 1973 in Sydney, Australien gegründet.",
+        "id": "aya_deu_210"
+    },
+    {
+        "instruction": "Welche Farbe hat die Kleidung von Marios Zwillingsbruder?",
+        "input": "",
+        "output": "Der Pullover von Marios Bruder Luigi ist grün, und seine Hose blau.",
+        "id": "aya_deu_211"
+    },
+    {
+        "instruction": "Vervollständigen Sie den folgenden Paragraphen mit einer sinnvollen Fortsetzung. Das Thema ist \"Belgisches Boom-Team im internationalen Kontext\":\n2013 war Belgien Gastgeberland der Europameisterschaft in Boom. Vor heimischem Publikum verloren die Belgier im Finale mit 1:3 gegen die deutsche Mannschaft. 2014 trafen die Belgier und die Deutschen bei der Weltmeisterschaft in Den Haag",
+        "input": "",
+        "output": "im Spiel um Platz 5 aufeinander, die Belgier gewannen mit 4:2. Ebenfalls Fünfte wurden die Belgier bei der Europameisterschaft 2015 in London. 2016 bei den Olympischen Spielen in Rio de Janeiro gewannen die Belgier im Halbfinale mit 3:1 gegen die Niederländer. Im Finale unterlagen sie den Argentiniern mit 2:4.",
+        "id": "aya_deu_212"
+    },
+    {
+        "instruction": "Was sind die drei Grundfarben? Wodurch unterscheiden sie sich von subtraktiven Grundfarben?",
+        "input": "",
+        "output": "Die sogenannten additiven Grundfarben sind Rot, Grün und Blau. Dabei können Farben durch das Zusetzen (addieren) von Grundfarben in verschiedenen Teilen erreicht werden. Im Gegensatz dazu ist es bei den subtraktiven Grundfarben (Cyan, Magenta, Gelb, Kontrastschwarz) umgekehrt. Farben werden dadurch erreicht, dass gewisse Grundfarben anteilig weggelassen (subtrahiert) werden.",
+        "id": "aya_deu_213"
+    },
+    {
+        "instruction": "In welchem „Star Wars“-Film von 1980 kommen keine Ewoks vor?",
+        "input": "",
+        "output": "1980 erschien der Teil \"Star Wars: Episode V – Das Imperium schlägt zurück\".",
+        "id": "aya_deu_214"
+    },
+    {
+        "instruction": "Welcher Krieg hat länger gedauert, der Amerikanische Unabhängigkeitskrieg oder der Bürgerkrieg?",
+        "input": "",
+        "output": "Der Amerikanische Unabhängigkeitskrieg hat länger gedauert. Der Krieg hielt von 1775 bis 1783 an. Im Vergleich dazu ging der Amerikanische Bürgerkrieg nur vier Jahre, von 1861-1865.",
+        "id": "aya_deu_215"
+    },
+    {
+        "instruction": "Welcher Trivia-Kategorie lässt sich die folgende Frage zuordnen?\nWelcher Krieg dauerte länger, der Vietnamkrieg oder der Zweite Weltkrieg?",
+        "input": "",
+        "output": "Die korrekte Kategorie lautet \"Geschichte\".",
+        "id": "aya_deu_216"
+    },
+    {
+        "instruction": "Wo kann ich im Internet Videos ansehen?",
+        "input": "",
+        "output": "Es gibt verschiedenste Webseiten für Videos. Für kostenlose Angebote gibt es unter anderem folgende Seiten:\n\n- https://youtube.com\n- https://vimeo.com\n- https://d.tube",
+        "id": "aya_deu_217"
+    },
+    {
+        "instruction": "Beschreiben Sie in einem Satz, worum es in dem folgenden Artikel geht:  Plastikfolie ist wahrscheinlich die Standard-Bedeckung für ein Buch. Sie können durchsichtiges oder farbiges, klebehaftes Kunststoffkontaktpapier verwenden. Oder Sie können verschiedene Arten von Bücherbezügen aus Kunststoff verwenden, die nicht klebrig sind, aber für Bücherbezüge hergestellt werden. Beide Arten von Plastik schützen Ihr Buch. Aber die nichtklebende Methode ist auf lange Sicht weniger schädlich für das Buch. Sollten Sie jemals die Kunststoffabdeckung entfernen wollen, ist die nichtklebende Methode leichter zu entfernen. Sie können auch einen Kunststoff-Buchschutz für die Buchdeckel herstellen. Die Chemikalien im Klebstoff können das Buch schließlich beflecken. Darüber hinaus ist die Klebstoffmethode keine umweltfreundliche Methode, um ein Buch zu bedecken, da noch keine recycelten Versionen davon hergestellt wurden. Normaler Kunststoffdeckel erfordert etwas mehr Arbeit, kann aber leicht entfernt werden. Man kann auch versuchen, ein Buch mit Plastikfolie zu bedecken. Das Papier für das Kontaktbuch ist in einer Rolle. Es ist normalerweise überall erhältlich, wo Schreibwaren oder Handwerksartikel verkauft werden. Die meisten Rollen haben auf der Rückseite des Kontaktpapiers die Maße gedruckt, die Ihnen helfen, den Kunststoff auszurichten.  Zusammenfassung:",
+        "input": "",
+        "output": "Plastikfolie kann als Schutzhülle für Bücher verwendet werden, wobei es verschiedene Varianten gibt.",
+        "id": "aya_deu_218"
+    },
+    {
+        "instruction": "Setze den folgenden Beginn eines Textes fort:\n\"Hunky and Spunky\"",
+        "input": "",
+        "output": "wurde 1939 für einen Oscar in der Kategorie „Bester animierter Kurzfilm“ nominiert, konnte sich jedoch nicht gegen Disneys \"Ferdinand, der Stier\" durchsetzen.",
+        "id": "aya_deu_219"
+    },
+    {
+        "instruction": "Vereinfache den folgenden Satz, indem syntaktisch komplexe Wörter mit einfacheren Worten (oder grammatikalischen Konstrukten) ersetzt werden.\nInput: Das \"Nutzergenerierte Radio\", wie die Betreiber des Internetportals ihr Konzept nennen, macht Streamingtechnologie auch für private, nicht-kommerzielle Sendungsmacher nutzbar, was sich ansonsten aufgrund hoher GEMA- bzw. GVL-Gebühren eher schwierig gestalten kann. Die anfallenden Gebühren übernimmt die Laut AG, diese behält sich im Gegenzug das Recht vor, Werbung auf den Stationen der Nutzer zu schalten. \nAntwort:",
+        "input": "",
+        "output": "Das \"Nutzergenerierte Radio\" ist ein Internetdienst. Es ermöglicht private Radiosender, die normalerweise zu teuer für viele Personen wären. Der Grund dafür sind Gebühren, welche beim Abspielen eines Lieds an bestimmte Gruppen gezahlt werden müssen. Die Kosten im \"nutzergenerierten Radio\" werden stattdessen von einer Firma übernommen. Sie darf dafür Werbung auf den Radiosendern abspielen.",
+        "id": "aya_deu_220"
+    },
+    {
+        "instruction": "Gib mir eine Anleitung, wie ich eine Türe öffnen kann. Die einzelnen Schritte sollten nummeriert sein und nicht mehr als zwei Sätze enthalten.",
+        "input": "",
+        "output": "1. Identifiziere, ob es sich um eine automatische Türe handelt. Diese lassen sich oftmals durch Bewegungsmelder (üblicherweise oberhalb der Türe) identifizeren.\n2. Wenn es sich um eine automatische Türe handelt, musst du lediglich in die Nähe der Türe treten, und sie sollte sich automatisch öffnen. Für eine manuelle Türe, folge den weiteren Anweisungen.\n3. Versuche herauszufinden, ob es sich um eine Schiebe- oder Flügeltür handelt. Flügeltüren sind mehrheitlich in Gebrauch und sind durch Scharniere an einer Seite erkennbar.\n4. Sollte es eine Schiebetüre sein, benutze den Türgriff und schiebe die Türe vorsichtig zur Seite. Je nach Türe kann sich die Richtung unterscheiden.\n5. Bei Flügeltüren musst du in der Regel den Türgriff herunterdrücken, um den Schließmechanismus zu betätigen. Danach kannst du die Türe entweder zu dir herziehen oder wegschieben, um sie zu öffnen.",
+        "id": "aya_deu_221"
+    },
+    {
+        "instruction": "Wer ist der reichste Mensch auf der Welt?",
+        "input": "",
+        "output": "Die Forbes-Liste veröffentlicht in regelmäßigen Abständen eine Liste mit den reichsten Menschen der Welt. Das kann sich über die Zeit ändern. Für eine aktuelle Aussage sollte man im aktuellen Forbes Ranking nachschauen. Mein letzter Stand ist 2023. Im Jahr 2023 ist laut des Forbes Magazin der reichste Mensch Elon Musk (CEO von Tesla). Sein Vermögen wird zu diesem Zeitpunkt auf 259,9 Milliarden US-Dollar geschätzt.",
+        "id": "aya_deu_222"
+    },
+    {
+        "instruction": "Wie viele englischsprachige Artikel gibt es auf Wikipedia?",
+        "input": "",
+        "output": "Im Oktober 2023 listet Wikipedia über 6.715.000 Artikel in der englischen Sprache. Es ist damit die am meisten verfügbare Sprache auf Wikipedia, gefolgt von Deutsch (rund 2.836.000 Artikel).",
+        "id": "aya_deu_223"
+    },
+    {
+        "instruction": "Was sind die besten Computerspiele, die einen hohen Wert auf Entdeckung und Erkundung legen?",
+        "input": "",
+        "output": "Bei Spielern beliebt sind unter anderem:\n- The Elder Scrolls V: Skyrim\n- Subnautica\n- Sea of Thieves\n- Raft\n- Firewatch\n- Stray\n- Outer Wilds",
+        "id": "aya_deu_224"
+    },
+    {
+        "instruction": "Schreiben Sie eine Fortsetzung für diesen Absatz. Der Kontext ist die Geschichte der \"Academia Sinica\", eine taiwanesische Universität:\nInitiiert durch Li Shizeng, wurde die Academia Sinica am 9. Juni 1928 in der Republik China (mit Niederlassungen in Peking und Shanghai) offiziell gegründet. Sein Weggefährte Cai Yuanpei, der nach der Revolution von 1911 erster Erziehungsminister der Republik gewesen war, wurde ihr Präsident.",
+        "input": "",
+        "output": "Im Zuge des Bürgerkrieges und dem Einmarsch japanischer Streitkräfte, zog die Academia Sinica mehrmals um. Nachdem im Jahre 1949 die Kommunisten die Kontrolle über das Festland gewonnen hatten, wurde die Academia Sinica von der republikanischen Regierung in Taiwan neu etabliert. In den folgenden Jahren der politischen Instabilität ging ihre Entwicklung nur schleppend voran.",
+        "id": "aya_deu_225"
+    },
+    {
+        "instruction": "Was versteht man unter Reinforcement Learning? Bitte erkläre den Begriff in einfachen Worten.",
+        "input": "",
+        "output": "Reinforcement Learning (im dt.  bestärkendes Lernen) ist eine Methode im \"Machine Learning\" Bereich. Dabei werden Agenten (\"agents\") gebaut, die eigenständig durch die Interaktion mit ihrer Umwelt eine Strategie erlernen. Das Lernen erfolgt durch \"Trial und Error\" und mittels (positiver oder negativer) Belohnungen als Feedback. \"Reinforcement Learning\" kann man sich anhand des folgenden Beispiels vereinfacht vorstellen: Stell dir vor, du spielst ein Computerspiel, dass du noch nicht kennst (environment). Du probierst verschiedene Knöpfe auf der Tastatur aus (Interaktion). Drückst du die rechte Pfeiltaste, bekommst du einen Punkt (Belohnung). Drückst du hingegen die linke Taste, wird dir ein Punkt abgezogen. Mit jeder Interaktion lernst du, was dir Punkte einbringt und was dir keine Punkte einbringt. Ohne die Hilfe von außerhalb, hast du so gelernt, wie das Spiel funktioniert. Dieses Prinzip wird auf Reinforcement Learning angewandt.",
+        "id": "aya_deu_226"
+    },
+    {
+        "instruction": "Welche Fragen kann ich einem KI-Chatbot stellen?",
+        "input": "",
+        "output": "Ein KI-Chatbot ist nicht nur auf Fragestellungen trainiert. Die am häufigsten vorkommenden Kategorien laut der Firma OpenAI sind:\n- Freie Text-Generationen, z.B. das Erstellen von Emails oder Artikeln.\n- Offene Fragestellungen, bei der die Antwort nicht explizit aus einem Kontext gegeben wird.\n- Brainstorming, also die Kreation von mehreren Vorschlägen unter bestimmten Themenvorgaben.\n- Gesprächsverläufe (Chats), welche einen Verlauf aus mehreren Antworten zusammensetzen.\n- Editieren von bestehenden Texten, z.B. um den Lesefluss zu verbessern oder Schreibfehler zu entdecken.\n- Die Erstellung von Textzusammenfassungen aus einem gegebenen Text.\n- Das Beantworten von Fragen aus einem gegebenen Kontext (\"Geschlossene Fragestellung\").",
+        "id": "aya_deu_227"
+    },
+    {
+        "instruction": "Woher stammt das Gericht \"Kaiserschmarrn\"?\n\nA. Deutschland\nB. Belgien\nC. Österreich\nD. Schweiz\nE. Italien",
+        "input": "",
+        "output": "C. Österreich",
+        "id": "aya_deu_228"
+    },
+    {
+        "instruction": "Welcher Präsident der Vereinigten Staaten hatte keine First Lady?",
+        "input": "",
+        "output": "James Buchanan, seinerzeit 15. Präsident der USA, war nie verheiratet und hatte damit keine formelle \"First Lady\" an seiner Seite. Stattdessen fungierte seine Nichte, Harriet Rebecca Lane Johnston, als \"Ersatz-First-Lady\".",
+        "id": "aya_deu_229"
+    },
+    {
+        "instruction": "Frage: Wem gehört das Delano Hotel in Las Vegas? Antwort:",
+        "input": "",
+        "output": "Das Hotel gehört der Firma MGM Resorts International.",
+        "id": "aya_deu_230"
+    },
+    {
+        "instruction": "Um welches Event geht es im folgenden Text?\n\"Die mexikanische Einzelmeisterschaft konnte er 2010 in Mexiko-Stadt gewinnen. Er spielte für Mexiko bei drei Schacholympiaden: 2010 bis 2014.\"",
+        "input": "",
+        "output": "Es geht um die Schacholympiaden zwischen 2010 - 2014.",
+        "id": "aya_deu_231"
+    },
+    {
+        "instruction": "Satz 1: Das heraldische Wappen Bayerns wurde 1946 von Eduard Ege nach modernen Traditionen entworfen. Satz 2: Das moderne Bayerische Wappen wurde 1946 von Eduard Ege nach heraldischen Traditionen entworfen. Frage: Haben Satz 1 und Satz 2 dieselbe Bedeutung? Ja oder Nein?",
+        "input": "",
+        "output": "Nein.",
+        "id": "aya_deu_232"
+    },
+    {
+        "instruction": "Bei der folgenden Aussage: \"In jeder 20. Stelle legt...\". Wie viele Stellen sind das in Prozent?",
+        "input": "",
+        "output": "In Prozent sind das 5% aller Stellen. \nBerechnet wird das wie folgt: \nWenn man insgesamt 20 Stellen hätte und jede 20. Stelle nimmt, dann sind das 1 von 20 Stellen, also (1/20)*100 = 5. Bei 40 Stellen wären es 2 Stellen, also (2/40)*100 = 5 und so weiter.",
+        "id": "aya_deu_233"
+    },
+    {
+        "instruction": "Schreiben Sie eine Fortsetzung für diesen Absatz. Es soll erwähnt werden, dass die Wahl am 28. Oktober 2009 stattfand und auf allen regionalen Ebenen gewählt wurde- Durch die Präsidentschaftswahl in Mosambik 2009 wurde zum vierten Mal seit Beendigung des Mosambikanischen Bürgerkriegs",
+        "input": "",
+        "output": "in allgemeinen Wahlen ein Präsident für das südostafrikanische Land Mosambik bestimmt. Die Wahl fand am 28. Oktober 2009 zeitgleich mit den Parlamentswahlen und den erstmals durchgeführten Provinzwahlen statt.",
+        "id": "aya_deu_234"
+    },
+    {
+        "instruction": "Welches Land war Teil der Alliierten im Zweiten Weltkrieg und bestand aus 15 Republiken?",
+        "input": "",
+        "output": "Die Sowjetunion war Teil der Alliierten und bestand aus 15 Republiken.",
+        "id": "aya_deu_235"
+    },
+    {
+        "instruction": "Nennen Sie mir eine Trivia-Frage zur Kategorie \"Geschichte\".",
+        "input": "",
+        "output": "Frage: Wer war der letzte Anführer der Sowjetunion?\nAntwort: Mikhail Sergeyevich Gorbachev",
+        "id": "aya_deu_236"
+    },
+    {
+        "instruction": "Wie alt ist der Manager der Pittsburgh Pirates?",
+        "input": "",
+        "output": "Er ist 51 Jahre alt.",
+        "id": "aya_deu_237"
+    },
+    {
+        "instruction": "Gib mir ein Email-Template, in dem es um einen neuen Kollegen geht, der gerade bei einer Firma angefangen hat.\nDie Mail sollte Willkommensgrüße enthalten und ein freundliches Bild zeichnen. Benutze das formale \"Sie\" statt einer informellen Anrede.\nDer Hauptteil der Mail sollte nicht länger als 4 Sätze sein. Der Autor der Mail ist in der gleichen Abteilung.",
+        "input": "",
+        "output": "Guten Morgen {Name},\nherzlich willkommen im Team! Es freut uns, Sie bei der Firma {Firmenname} begrüßen zu können und als zukünftigen Kollegen mit an Bord zu haben.\n\nSollten Sie weitere Fragen zu Abläufen innerhalb des Teams haben, zögern Sie bitte nicht, mir eine Nachricht zu schreiben oder persönlich am Schreibtisch vorbeizukommen.\nMit freundlichen Grüßen,\n{Name Absender}",
+        "id": "aya_deu_238"
+    },
+    {
+        "instruction": "Um welches wichtige Ereignis geht es im folgenden Text?\nErst nach der Agadirkrise 1911 wurde eine massive Aufrüstung beschlossen: Die mobilisierte Maximalstärke der belgischen Armee sollte von 180.000 auf 350.000 Soldaten steigen. Diese Aufrüstung war im Sommer 1914 noch nicht abgeschlossen. Die deutsche Heeresführung sah die belgische Armee als schwach genug an, binnen weniger Tage überrannt zu werden.",
+        "input": "",
+        "output": "Es geht um die Agadirkrise 1911.",
+        "id": "aya_deu_239"
+    },
+    {
+        "instruction": "Verfasse eine passende Trivia-Frage zur folgenden Kategorie: Video-Spiele.",
+        "input": "",
+        "output": "Was ist Marios ursprünglicher Name? \"Mr. Video\" (=Herr Video) oder \"Jumpman\" (=Hüpfmann).",
+        "id": "aya_deu_240"
+    }
+]
